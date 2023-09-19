@@ -9,11 +9,17 @@ tags: [项目开发, Spring Boot, 程序开发]     # TAG names should always be
 
 我觉得学习一个知识, 最好的方式, 是完成一个完整的项目. 我记得之前看见过一篇[文章](https://www.freecodecamp.org/chinese/news/learn-to-code-book/), 讲到过学习编程的重要思想, 自己也确实没有学习这方面的经验, 又不想摸着石头过河, 那就选择一个榜样去学习他的经验.
 
+![如何在 2023 年学习编程并获得开发者工作 [完整指南]](../../assets/img/posts/image.png)
+
 > 学习这些东西的最好方式是做项目，最好是在学习过程中坚持一天做几个小项目。
 
-[Quincy Larson](https://www.freecodecamp.org/chinese/news/author/quincy/)我觉得挺有道理, 想借此去实践一下这个观点. 他推荐的 freeCodeCamp 这个开源社区, 我仅仅觉得是学习英语的好地方, 对于我学习计算机英语词汇, 我认为是很好的开始. 学习这里面的项目, 我认为自己需要静下心去学习, 而不是焦躁不安地囫囵吞枣.
+[Quincy Larson](https://www.freecodecamp.org/chinese/news/author/quincy/)前辈说的我觉得挺有道理, 想借此去实践一下这个观点. 他推荐的 freeCodeCamp 这个开源社区, 我觉得是学习英语的好地方, 对于我学习计算机英语词汇, 我认为是很好的开始. 学习这里面的项目, 我认为自己需要静下心去学习, 而不是焦躁不安地囫囵吞枣.
 
-于是我寻找了一个项目, 这是一个  [B站](https://www.bilibili.com/video/BV13a411q753/?p=14&spm_id_from=333.1007.top_right_bar_window_history.content.click) 黑马的视频![黑马瑞吉外码项目](附件/Pasted%20image%2020230918094234.png)我认为很有必要将这个项目过一遍, 将项目的整个制作过程给捋一遍, 这次项目的模仿, 重要的并不是技术实现细节和技术的学习, 而是学习其中制作程序的企业思路, 与我所欠缺的项目开发经验. 
+于是我寻找了一个项目, 这是一个  [B站](https://www.bilibili.com/video/BV13a411q753/?p=14&spm_id_from=333.1007.top_right_bar_window_history.content.click) 黑马的视频  
+
+![黑马瑞吉外码项目](../../assets/img/posts/heima-reggie.png)  
+
+我认为很有必要将这个项目过一遍, 将项目的整个制作过程给捋一遍, 这次项目的模仿, 重要的并不是技术实现细节和技术的学习, 而是学习其中制作程序的企业思路, 与我所欠缺的项目开发经验. 
 
 ## 了解的知识
 我觉得现在的我了解的都是一个大概流程, 视频中重点讲述的是技术实现内容. 
