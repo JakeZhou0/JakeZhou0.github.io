@@ -4,6 +4,8 @@ source 'https://gems.ruby-china.com'
 
 gemspec
 
+gem "jekyll-admin"
+
 group :test do
   gem "html-proofer", "~> 3.18"
 end
