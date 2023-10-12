@@ -1,5 +1,5 @@
 ---
-title: Spring Boot 学习路程 Day 1
+title: Spring Boot 瑞吉项目
 date: 2023-9-18
 categories: [程序开发, Java, Spring Boot, 实战项目制作]
 tags: [项目开发, Spring Boot, 程序开发]     # TAG names should always be lowercase
