@@ -18,12 +18,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jay's Bolg # the main title
+title: 阿杰的博客 # the main title
 
-tagline: 无限进步! # it will display as the sub-title
+tagline: 欢迎来到这儿。 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  一个 Web 前端工程师, 热爱编程.
+  个人博客，Jay Chou的小站，分享技术，记录生活，生活，技术，互联网。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://JayChou404.github.io"
@@ -34,12 +34,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: JayChou
+  name: Jay Chou
   email: ajieoooo@hotmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    # - https://github.com/username # change to your github homepage
+    # - https://github.com/jaychou404 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 
+img_cdn: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/assets/img/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/logo.jpg'
+avatar: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/assets/img/logo.jpg'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
