@@ -9,7 +9,7 @@ tags: [项目开发, Spring Boot, 程序开发]     # TAG names should always be
 
 我觉得学习一个知识, 最好的方式, 是完成一个完整的项目. 我记得之前看见过一篇[文章](https://www.freecodecamp.org/chinese/news/learn-to-code-book/), 讲到过学习编程的重要思想, 自己也确实没有学习这方面的经验, 又不想摸着石头过河, 那就选择一个榜样去学习他的经验.
 
-![如何在 2023 年学习编程并获得开发者工作 [完整指南]](../../assets/img/posts/image.png)
+![如何在 2023 年学习编程并获得开发者工作 [完整指南]](assets/img/posts/image.png)
 
 > 学习这些东西的最好方式是做项目，最好是在学习过程中坚持一天做几个小项目。
 
@@ -17,7 +17,7 @@ tags: [项目开发, Spring Boot, 程序开发]     # TAG names should always be
 
 于是我寻找了一个项目, 这是一个  [B站](https://www.bilibili.com/video/BV13a411q753/?p=14&spm_id_from=333.1007.top_right_bar_window_history.content.click) 黑马的视频  
 
-![黑马瑞吉外码项目](../../assets/img/posts/heima-reggie.png)  
+![黑马瑞吉外码项目](assets/img/posts/heima-reggie.png)  
 
 我认为很有必要将这个项目过一遍, 将项目的整个制作过程给捋一遍, 这次项目的模仿, 重要的并不是技术实现细节和技术的学习, 而是学习其中制作程序的企业思路, 与我所欠缺的项目开发经验. 
 
