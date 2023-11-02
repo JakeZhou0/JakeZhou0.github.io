@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<img src="../assets/img/posts/about.jpg" alt="博主的头像" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="assets/img/posts/about.jpg" alt="博主的头像" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ### 首先, 感谢你到访我的网站. 
 
@@ -33,7 +33,8 @@ order: 4
 亲爱的读者们:
 
 > 感谢您对这个网站的关注。我深知，正是您的支持才让我能够持续提供优质内容。
-> <img src="../assets/img/posts/support.jpg" alt="赞赏码" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
 > 再次感谢您的支持和关注。  
->  **衷心祝福**
+> <img src="/assets/img/posts/support.jpg" alt="赞赏码" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
  
+>  **衷心祝福**

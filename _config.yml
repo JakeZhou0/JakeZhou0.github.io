@@ -18,9 +18,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 阿杰的博客 # the main title
+title: 阿杰的小站 # the main title
 
-tagline: 欢迎来到这儿。 # it will display as the sub-title
+tagline: 欢迎来到这儿 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   个人博客，Jay Chou的小站，分享技术，记录生活，生活，技术，互联网。
@@ -44,13 +44,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: 'google8325645c31f231fa'# fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: 'G-LHWHSL4EBR'# fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/assets/img/'
+img_cdn: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/assets/img/logo.jpg'
+avatar: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/assets/img/logo.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
