@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "712102dc8bff3f1b",
+        "id": "576f03300fcd9c96",
         "type": "tabs",
         "children": [
           {
-            "id": "1b01948756b0c091",
+            "id": "0246b1ff4dbe1ae1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node_modules/flat-cache/changelog.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -52,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0f7f0c95876cb9e6",
@@ -76,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#all -tag:#all",
+                "query": "tag:#归档/📦/笔记",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,10 +105,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19bab87486dfff72",
+            "id": "45757f9064948e4c",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e801aed493f5d705",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "462f584534aa5e8d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "0ad8abf5953eb82f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           }
@@ -123,7 +159,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -137,16 +172,20 @@
       "obsidian-wordpress:发布到 WordPress": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "excalidraw-cn:Create New Excalidraw File": false
     }
   },
-  "active": "d8538e4beb3fe1fa",
+  "active": "0246b1ff4dbe1ae1",
   "lastOpenFiles": [
+    "excalidraw 24-04-29 11.18.29.ex",
+    "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT3M49.885S.webp",
+    "_drafts/附件/插入模版/错误.md",
+    "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT4M27.307S.webp",
     "_drafts/附件/模板/笔记模板.md",
     "_drafts/附件/模板/日记模板.md",
     "_drafts/附件/模板/单词模板.md",
     "_drafts/附件/插入模版/问题.md",
-    "_drafts/附件/插入模版/错误.md",
     "_drafts/附件/插入模版/重要.md",
     "_drafts/附件/插入模版/注意.md",
     "_drafts/附件/插入模版/总结.md",
@@ -162,8 +201,6 @@
     "_drafts/附件/这10个网站，真的打死也不能删！！！PT1.711S.webp",
     "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT7.964S.webp",
     "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M9.209S.webp",
-    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M15.016S.webp",
-    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M10.427S.webp",
     "_drafts/附件/模板",
     "_drafts/附件/插入模版",
     "_drafts/附件/PingFang SC Regular.ttf",
@@ -187,7 +224,6 @@
     "_tabs/archives.md",
     "_tabs/about.md",
     "README.md",
-    "_drafts/2023-7-11-博客功能.md",
     "未命名.canvas",
     "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
     "一团乱/意识/Todo/计划.canvas",

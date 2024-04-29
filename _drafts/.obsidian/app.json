@@ -6,8 +6,8 @@
   "vimMode": false,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest",
-  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
   "strictLineBreaks": false,
   "showFrontmatter": true,
   "showLineNumber": true,
@@ -23,5 +23,18 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "userIgnoreFilters": [
+    "admin/",
+    "assets/",
+    "tools/",
+    "_data/",
+    "_javascript/",
+    "_includes/",
+    "_layouts/",
+    "_plugins/",
+    "_sass/",
+    "_site/",
+    "_drafts/"
+  ]
 }
