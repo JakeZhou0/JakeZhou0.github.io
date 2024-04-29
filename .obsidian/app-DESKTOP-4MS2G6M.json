@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "attachmentFolderPath": "./附件",
+  "newFileLocation": "current",
+  "vimMode": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "foldIndent": true,
+  "rightToLeft": false,
+  "spellcheckLanguages": null,
+  "newFileFolderPath": "一团乱",
+  "trashOption": "local"
+}

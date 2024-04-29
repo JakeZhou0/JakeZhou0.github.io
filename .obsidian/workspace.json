@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "2338198d7ab7ae20",
+    "type": "split",
+    "children": [
+      {
+        "id": "712102dc8bff3f1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b01948756b0c091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "node_modules/flat-cache/changelog.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89423704f0da89ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3fe29947bcac174",
+        "type": "tabs",
+        "dimension": 37.5,
+        "children": [
+          {
+            "id": "db860d8e87e3408a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "780b9c7fe8b51951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f7f0c95876cb9e6",
+        "type": "tabs",
+        "dimension": 62.5,
+        "children": [
+          {
+            "id": "d8538e4beb3fe1fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1d0f817c4496b0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#all -tag:#all",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "6a3a89574ac44d74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "99e7b91626d610ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "39e5814985b0659e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19bab87486dfff72",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "media-extended:Open media": false,
+      "code-files:Create Code File": false,
+      "obsidian-wordpress:发布到 WordPress": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "d8538e4beb3fe1fa",
+  "lastOpenFiles": [
+    "_drafts/附件/模板/笔记模板.md",
+    "_drafts/附件/模板/日记模板.md",
+    "_drafts/附件/模板/单词模板.md",
+    "_drafts/附件/插入模版/问题.md",
+    "_drafts/附件/插入模版/错误.md",
+    "_drafts/附件/插入模版/重要.md",
+    "_drafts/附件/插入模版/注意.md",
+    "_drafts/附件/插入模版/总结.md",
+    "_drafts/附件/插入模版/引用.md",
+    "_drafts/附件/插入模版/完成.md",
+    "_drafts/附件/img/项目协作.svg",
+    "_drafts/附件/插入模版/代办.md",
+    "_drafts/附件/img/数据归档2.5D.svg",
+    "_drafts/附件/img/财富舞台背后.svg",
+    "_drafts/附件/img/打电话.svg",
+    "_drafts/附件/img/library.excalidrawlib",
+    "_drafts/附件/img/天文观察.svg",
+    "_drafts/附件/这10个网站，真的打死也不能删！！！PT1.711S.webp",
+    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT7.964S.webp",
+    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M9.209S.webp",
+    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M15.016S.webp",
+    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M10.427S.webp",
+    "_drafts/附件/模板",
+    "_drafts/附件/插入模版",
+    "_drafts/附件/PingFang SC Regular.ttf",
+    "_drafts/附件/Pasted%20image%2020230918094234.png.md",
+    "_drafts/附件/img.zip",
+    "_drafts/附件/img",
+    "_drafts/附件/cropped_Pasted Image 20240425074553_456.md",
+    "_drafts/附件/cropped_Pasted Image 20240425074553_456_0.md",
+    "_drafts/附件/cropped_Pasted Image 20240425074136_674.md",
+    "_drafts/附件/cropped_Pasted Image 20240424011418_298.md",
+    "_drafts/附件/cropped_cropped_Pasted Image 20240425074553_456_0.md",
+    "_drafts/附件/cropped_cropped_cropped_Pasted Image 20240425074553_456_0.md",
+    "_drafts/附件/capsLK-Down.json",
+    "_drafts/附件/B题-基于多项目主要目的模态特征融合的图像文本检索.pdf",
+    "_drafts/附件",
+    "_drafts/Excalidraw/Drawing 2024-04-28 11.excalidraw.md",
+    "_drafts/Excalidraw",
+    "_drafts/总结.md",
+    "_tabs/tags.md",
+    "_tabs/categories.md",
+    "_tabs/archives.md",
+    "_tabs/about.md",
+    "README.md",
+    "_drafts/2023-7-11-博客功能.md",
+    "未命名.canvas",
+    "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
+    "一团乱/意识/Todo/计划.canvas",
+    "一团乱/Knowledge/附件/未命名.canvas",
+    "JavaScript 大纲.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
+  ]
+}
