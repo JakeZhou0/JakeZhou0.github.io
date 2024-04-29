@@ -1,0 +1,54 @@
+---
+tags:
+  - 归档/📦/笔记
+  - 归档/📦/Learn
+  - 归档/📦/Study
+  - 归档/📦/VOA
+  - 归档/📦/English
+---
+
+## 🙋‍♀️Question
+
+---
+
+> [!Question] What does busy mean?
+
+> [!Question] When can I use this sentence?
+
+> [!Question] I don't understand a lot for words, and how to solve this problem?
+
+> [!question] What does apologize mean?
+
+> [!question] What does Come by this afternoon mean?
+
+## 📝Note
+
+---
+
+> **Are You Busy**
+> Um, ……
+
+> I'm sorry.
+> It's okay.
+
+### ❓Don't Understand
+
+> [!Words]
+> apologize before light studio surprise
+
+What does mean show in the sentence:
+
+> I am recording my evening **show**.
+
+What does the following sentence mean:
+
+ > Com by this afternoon.
+
+## 🔥Summary
+
+---
+
+> - Are you busy? I apologize about yesterday. I'm sorry.
+> - It's okay.
+
+- Learning the context of these words.

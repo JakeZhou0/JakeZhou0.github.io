@@ -1,0 +1,34 @@
+{
+  "lang": "auto",
+  "profiles": [
+    {
+      "name": "阿杰维",
+      "apiType": "xml-rpc",
+      "endpoint": "https://ajiew.com",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": true,
+      "savePassword": true,
+      "isDefault": true,
+      "lastSelectedCategories": [
+        1
+      ],
+      "username": "jaychou",
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"HCIT9OF7WfUK3NWmwMI5VfDDRJ0TLHRFDCF1r2ZFHSQ\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "MEeeZgF8qTasQMZX",
+        "encrypted": "n7S69YIh/GUpZsul4pJwI49ZqfpOJ9WfzrMaQiJ1Gg=="
+      }
+    }
+  ],
+  "showRibbonIcon": true,
+  "defaultPostStatus": "draft",
+  "defaultCommentStatus": "open",
+  "rememberLastSelectedCategories": true,
+  "showWordPressEditConfirm": true,
+  "mathJaxOutputType": "svg",
+  "commentConvertMode": "ignore",
+  "enableHtml": false,
+  "replaceMediaLinks": true,
+  "version": "2",
+  "defaultPostType": "post"
+}
