@@ -2,7 +2,7 @@
   "promptDelete": false,
   "spellcheck": true,
   "attachmentFolderPath": "./",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "vimMode": false,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
@@ -15,7 +15,7 @@
   "foldIndent": true,
   "rightToLeft": false,
   "spellcheckLanguages": null,
-  "newFileFolderPath": "一团乱",
+  "newFileFolderPath": "_drafts/一团乱",
   "trashOption": "local",
   "pdfExportSettings": {
     "includeName": true,
