@@ -1,0 +1,203 @@
+# 导入主题
+theme: jekyll-theme-chirpy
+
+# 如果你的网站类型是 GitHub Pages 项目站点，并且没有自定义域名，请将以下值更改为 '/PROJECT_NAME'
+# baseurl 是 Jekyll 用来指定站点的根URL的基础路径，如果站点部署在项目的 GitHub Pages 上，且项目不是以用户/组织名称命名的仓库，则需要设置 baseurl。
+baseurl: ""
+
+# 网页的语言 › http://www.lingoes.net/en/translator/langcode.htm 
+# 如果它与 `_data/locales` 文件夹中的文件名相同，则布局语言也会改变，
+# 否则，布局语言将使用默认值 'en'。
+lang: zh-CN
+
+# 更改为你的时区 › http://www.timezoneconverter.com/cgi-bin/findzone/findzone 
+# timezone 是 Jekyll 用来确定站点时区的设置，这会影响日期和时间的显示。
+timezone: Asia/Shanghai
+
+# jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md 
+# ↓ --------------------------
+
+title: 阿杰的小站 # 主要标题
+
+tagline: 欢迎来到这儿 # 它将显示为副标题
+
+description: >- # 由 seo meta 和 atom feed 使用
+  个人博客，Jay Chou的小站，分享技术，记录生活，生活，技术，互联网。
+# 站点的标题、标语和描述，这些信息会被用于 HTML 的头部信息中，有助于搜索引擎优化（SEO）。
+
+# 填写你的网站的协议和主机名，例如 'https://username.github.io' 
+url: "https://JayChou404.github.io" 
+
+github:
+  username: JayChou404 # 更改为你的 github 用户名
+
+social:
+  # 更改为你的全名。
+  # 它将显示为帖子的默认作者和页脚中的版权所有者
+  name: Jay
+  email: ajieoooo@hotmail.com # 更改为你的电子邮件地址
+  links:
+    # 第一个元素作为版权所有者的链接
+    # - https://twitter.com/username  # 更改为你的 twitter 主页
+    # - https://github.com/jaychou404  # 更改为你的 github 主页
+    # 解释以下以添加更多的社交链接
+    # - https://www.facebook.com/username 
+    # - https://www.linkedin.com/in/username 
+
+google_site_verification: 'google8325645c31f231fa'# 填写你的验证字符串
+
+# ↑ --------------------------
+# `jekyll-seo-tag` 设置结束
+
+google_analytics:
+  id: 'G-LHWHSL4EBR'# 填写你的 Google Analytics ID
+# Google Analytics 的 ID，用于网站流量分析。
+
+# 首选颜色方案设置。
+# 注意：保持为空将默认跟随系统的首选颜色，
+# 并且在侧边栏左下角将有一个切换主题的开关，可以在暗色和亮色之间切换。
+#
+# 可用选项：
+#
+#     light  - 使用亮色配色方案
+#     dark   - 使用暗色配色方案
+theme_mode: # [light|dark]
+
+# 图片的 CDN 端点。
+# 注意，一旦分配，CDN url
+# 将被添加到所有以 '/' 开头的图片（站点头像和帖子图片）路径中
+#
+# 例如 'https://cdn.com' 
+img_cdn: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/' 
+
+# 侧边栏上的头像，支持本地或跨域资源
+avatar: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/assets/img/logo.png' 
+
+# 是否在帖子中全局启用目录（TOC）
+toc: true
+
+comments:
+  active:  # 帖子评论的全局开关，例如 'disqus'。保持为空表示禁用
+  # 激活选项如下：
+  disqus:
+    shortname: # 填写 Disqus 的短域名。 › https://help.disqus.com/en/articles/1717111-what-s-a-shortname 
+  # utterances 设置 › https://utteranc.es/ 
+  utterances:
+    repo: # <gh-username>/<repo>
+    issue_term: # < url | pathname | title | ...>
+  # Giscus 选项 › https://giscus.app 
+  giscus:
+    repo: # <gh-username>/<repo>
+    repo_id:
+    category:
+    category_id:
+    mapping: # 可选，默认为 'pathname'
+    input_position: # 可选，默认为 'bottom'
+    lang: # 可选，默认为 `site.lang` 的值
+    reactions_enabled: # 可选，默认为 '1'
+
+# 自托管静态资源，可选 › https://github.com/cotes2020/chirpy-static-assets 
+assets:
+  self_host:
+    enabled: # boolean，保持为空表示 false
+    # 指定 Jekyll 环境，保持为空表示两者都是
+    # 只有在 `assets.self_host.enabled` 是 'true' 时才有效
+    env: # [development|production]
+
+pwa:
+  enabled: true # PWA 功能的选项
+
+paginate: 10
+# 分页设置，定义每页显示的帖子数量。
+
+# ------------ 以下是不推荐修改的选项 ------------------
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts: # Rouge 选项 › https://github.com/jneen/rouge#full-options 
+    css_class: highlight
+    # default_lang: console
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+# kramdown 是 Jekyll 的解析器，这里设置了语法高亮。
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+# 定义了 Jekyll 的集合，用于组织内容。
+
+defaults:
+  - scope:
+      path: "" # 一个空字符串意味着项目中的所有文件
+      type: posts
+    values:
+      layout: post
+      comments: true # 在帖子中启用评论。
+      toc: true # 在帖子中显示目录。
+      # 不要修改以下参数，除非你足够自信能够更新该项目中所有其他帖子链接的代码。
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs # 查看 `site.collections`
+    values:
+      layout: page
+      permalink: /:title/
+  - scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
+  - scope:
+      path: assets/js/dist
+    values:
+      swcache: true
+# defaults 定义了 Jekyll 站点的默认设置。
+
+sass:
+  style: compressed
+# Sass 编译选项。
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+# 压缩 HTML 输出，提高页面加载速度。
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - tools
+  - README.md
+  - CHANGELOG.md
+  - LICENSE
+  - rollup.config.js
+  - node_modules
+  - package*.json
+  - .obsidian
+  - .trash
+# exclude 指定了 Jekyll 在构建站点时应该排除的文件和目录。
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+# jekyll-archives 插件设置，用于自动生成分类和标签的归档页面。
+
+plugins:
+  - jekyll-admin
+# 启用的 Jekyll 插件列表。
