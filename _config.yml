@@ -128,7 +128,8 @@ collections:
   tabs:
     output: true
     sort_by: order
-
+  obsidian:
+    
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
