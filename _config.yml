@@ -129,6 +129,8 @@ collections:
     output: true
     sort_by: order
   obsidian:
+    output: true
+    permalink: /:collection/:path/
     
 defaults:
   - scope:
