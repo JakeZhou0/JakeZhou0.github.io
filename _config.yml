@@ -68,7 +68,7 @@ theme_mode: # [light|dark]
 # 将被添加到所有以 '/' 开头的图片（站点头像和帖子图片）路径中
 #
 # 例如 'https://cdn.com' 
-img_cdn: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/_posts/'
+img_cdn: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/Obsidian/_posts/'
 
 # 侧边栏上的头像，支持本地或跨域资源
 avatar: 'https://cdn.jsdelivr.net/gh/JayChou404/JayChou404.github.io@master/assets/img/logo.png' 
