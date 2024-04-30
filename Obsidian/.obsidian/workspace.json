@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc632dc97e66099f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-9-20-ES6-Day1.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-7-11-博客功能.md",
+                "file": "_posts/2023-9-20-ES6-Day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-7-11-博客功能.md",
+                "file": "_posts/2023-9-20-ES6-Day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-7-11-博客功能.md"
+                "file": "_posts/2023-9-20-ES6-Day1.md"
               }
             }
           }
@@ -188,11 +202,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "02ffa0a66691eda3",
+  "active": "cc632dc97e66099f",
   "lastOpenFiles": [
+    "_posts/2023-7-11-博客功能.md",
     "_posts/2023-9-20-ES6-Day1.md",
     "_drafts/一团乱/掌握Java基础编程能力（回顾、补充）.md",
-    "_posts/2023-7-11-博客功能.md",
     "_drafts/一团乱/标准 Java 库.md",
     "_drafts/一团乱/算法和数据结构.md",
     "_drafts/README.md",
