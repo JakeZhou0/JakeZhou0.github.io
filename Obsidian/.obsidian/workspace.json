@@ -11,8 +11,13 @@
             "id": "02ffa0a66691eda3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-7-11-博客功能.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-7-11-博客功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-7-11-博客功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-7-11-博客功能.md"
+              }
             }
           }
         ]
@@ -180,55 +189,53 @@
   },
   "active": "02ffa0a66691eda3",
   "lastOpenFiles": [
-    "_drafts/一团乱/Knowledge/CS/Java笔记",
-    "_posts/2023-9-20-ES6-Day1.md",
     "_posts/Pasted image 20240430195007.png",
+    "_posts/Pasted image 20240430194529.png",
     "_posts/2023-7-11-博客功能.md",
-    "_posts",
-    "_drafts/附件/模板/笔记模板.md",
-    "_drafts/附件/模板/日记模板.md",
-    "_drafts/附件/模板/单词模板.md",
+    "_posts/Pasted image 20240430125850.png",
     "_drafts/附件/模板/blog发布参考模板.md",
-    "_drafts/附件/插入模版/问题.md",
-    "_drafts/附件/插入模版/错误.md",
-    "_drafts/附件/插入模版/重要.md",
-    "_drafts/附件/插入模版/注意.md",
-    "_drafts/附件/插入模版/总结.md",
-    "_drafts/附件/插入模版/引用.md",
-    "_drafts/附件/插入模版/完成.md",
-    "_drafts/附件/插入模版/代办.md",
-    "_drafts/附件/img/项目协作.svg",
-    "_drafts/附件/img/财富舞台背后.svg",
-    "_drafts/附件/img/数据归档2.5D.svg",
-    "_drafts/附件/img/天文观察.svg",
-    "_drafts/附件/img/library.excalidrawlib",
-    "_drafts/附件/img/打电话.svg",
-    "_drafts/附件/这10个网站，真的打死也不能删！！！PT1.711S.webp",
-    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT7.964S.webp",
-    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M9.209S.webp",
-    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M15.016S.webp",
-    "_drafts/附件/模板",
-    "_drafts/附件/插入模版",
-    "_drafts/附件/PingFang SC Regular.ttf",
-    "_drafts/附件/Pasted%20image%2020230918094234.png.md",
-    "_drafts/附件/img.zip",
-    "_drafts/附件/img",
-    "_drafts/附件/cropped_Pasted Image 20240425074553_456_0.md",
-    "_drafts/附件/cropped_Pasted Image 20240425074553_456.md",
-    "_drafts/附件/cropped_Pasted Image 20240425074136_674.md",
-    "_drafts/附件/cropped_Pasted Image 20240424011418_298.md",
-    "_drafts/附件/capsLK-Down.json",
-    "_drafts/附件/cropped_cropped_Pasted Image 20240425074553_456_0.md",
-    "_drafts/附件/cropped_cropped_cropped_Pasted Image 20240425074553_456_0.md",
-    "_drafts/附件/B题-基于多项目主要目的模态特征融合的图像文本检索.pdf",
+    "_drafts/一团乱/Pasted image 20240430130232.png",
+    "_drafts/一团乱/Pasted image 20240430130206.png",
+    "_posts/Pasted image 20240430125844.png",
+    "Pasted image 20240430125805.png",
+    "Pasted image 20240430125723.png",
+    "Pasted image 20240430125453.png",
+    "_posts/2023-9-20-ES6-Day1.md",
+    "_drafts/一团乱/掌握Java基础编程能力（回顾、补充）.md",
+    "_drafts/一团乱/标准 Java 库.md",
+    "_drafts/一团乱/算法和数据结构.md",
+    "_drafts/README.md",
+    "_drafts/Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
+    "_drafts/总结.md",
+    "_drafts/引用.md",
+    "_drafts/未命名.md",
+    "_drafts/深度学习框架.md",
+    "_drafts/例子.md",
+    "_drafts/搭建知识系统.md",
+    "_drafts/笔记.md",
+    "_drafts/2023-10-12-离别.md",
+    "_drafts/2023-9-20-ES6-Day2.md",
+    "_drafts/附件/Pasted image 20240430110048.png",
+    "_posts/Pasted image 20240430103707.png",
+    "_posts/_drafts/未命名.md",
+    "_posts/_drafts",
     "_drafts/附件/2023-9-18-SpringBoot项目Day1.md",
-    "_drafts/附件",
-    "_drafts/一团乱/Obsidian使用方法/MarkDown/Markdown语法.md",
-    "_drafts/一团乱/Obsidian使用方法/将 obsidian 笔记转换为 jekyll 博文.md",
-    "_drafts/一团乱/Obsidian使用方法/预览模式.md",
-    "_drafts/一团乱/意识/Todo/计划.canvas",
-    "_drafts/一团乱/Knowledge/附件/未命名.canvas",
+    "_posts/2023-9-18-SpringBoot项目Day1.md",
+    "_drafts/Excalidraw/Drawing 2024-04-28 11.excalidraw.md",
+    "_drafts/一团乱/MindMap/Board/搭建图像文本检索模型相关思路.md",
+    "_drafts/一团乱/MindMap/Board/要事评判.md",
+    "_posts",
+    "README.md",
+    "Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
     "未命名.canvas",
+    "投票系统需求文档.txt",
+    "Excalidraw",
+    "一团乱/Knowledge/CS/Jupyter/数据分析.ipynb",
+    "一团乱/Knowledge/CS/Jupyter/stopwords_comments.csv",
+    "一团乱/Knowledge/CS/Jupyter/scu_stopwords.txt",
+    "一团乱/Knowledge/CS/Jupyter/hit_stopwords.txt",
+    "一团乱/Knowledge/CS/Jupyter/cn_stopwords.txt",
+    "一团乱/Knowledge/CS/Jupyter/baidu_stopwords.txt",
     "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
     "一团乱/意识/Todo/计划.canvas",
     "一团乱/Knowledge/附件/未命名.canvas",
