@@ -16,12 +16,12 @@ tags:
 
 ---
 
-![[Pasted image 20231226131950.png]]
+![[../../../附件/Pasted image 20231226131950.png]]
 
-![[Pasted image 20231226132134.png]]
+![[../../../附件/Pasted image 20231226132134.png]]
 
-![[Pasted image 20231226132155.png]]
+![[../../../附件/Pasted image 20231226132155.png]]
 
-![[Pasted image 20231226132821.png]]
+![[../../../附件/Pasted image 20231226132821.png]]
 
-![[Pasted image 20231226132228.png]]
+![[../../../附件/Pasted image 20231226132228.png]]

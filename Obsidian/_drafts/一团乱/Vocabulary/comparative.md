@@ -18,6 +18,6 @@ Looking at things to see how they are similar or different.
 
 comparative [[adjectives]], comparative & [[Superlatives at Busuu]].
 
-![[Pasted image 20231229144902.png]]
+![[../../../附件/Pasted image 20231229144902.png]]
 
-![[Pasted image 20231229145113.png]]
+![[../../../附件/Pasted image 20231229145113.png]]

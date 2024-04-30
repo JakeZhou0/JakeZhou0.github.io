@@ -10,11 +10,11 @@ excalidraw-plugin: parsed
 
 ## Element Links
 
-CIRjuKSn: [[附件/Pasted Image 20240425074136_674.png]] ^UyctA0tx[[附件/Pasted Image 20240425074136_674.png]]
+CIRjuKSn: [[Pasted Image 20240425074136_674.png]] ^UyctA0tx[[Pasted Image 20240425074136_674.png]]
 
-UyctA0tx: [[附件/Pasted Image 20240425074136_674.png]]
+UyctA0tx: [[Pasted Image 20240425074136_674.png]]
 
-m8yQi66w: [[附件/Pasted Image 20240425074136_674.png]]
+m8yQi66w: [[Pasted Image 20240425074136_674.png]]
 
 ## Embedded Files
 

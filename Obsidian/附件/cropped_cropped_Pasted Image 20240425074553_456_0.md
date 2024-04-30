@@ -10,15 +10,13 @@ excalidraw-plugin: parsed
 
 ## Element Links
 
-MBxc1bWJ: [[附件/Pasted Image 20240425074553_456.jpg]] ^XARYLb2y[[附件/Pasted Image 20240425074553_456.jpg]]
+LqhTWdwF: [[cropped_Pasted Image 20240425074553_456_0]]
 
-XARYLb2y: [[附件/Pasted Image 20240425074553_456.jpg]]
-
-s7FpSYdY: [[附件/Pasted Image 20240425074553_456.jpg]]
+RJhoEpjE: [[cropped_Pasted Image 20240425074553_456_0]]
 
 ## Embedded Files
 
-0647bea4b88b2bfb37555f9f7a674bd3df2a6436: [[Pasted Image 20240425074553_456.jpg]]
+42a6998c3fb6fe12285d1657be87bfff856797d6: [[cropped_Pasted Image 20240425074553_456_0]]
 
 %%
 
@@ -31,100 +29,62 @@ s7FpSYdY: [[附件/Pasted Image 20240425074553_456.jpg]]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.4",
 	"elements": [
 		{
-			"id": "s7FpSYdY",
+			"id": "LqhTWdwF",
 			"type": "image",
-			"x": 0,
-			"y": 4.444444444444457,
+			"x": 203.4286063058035,
+			"y": -8.000008719308056,
 			"width": 658,
 			"height": 800,
 			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#fff",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 0,
+			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"frameId": "MBxc1bWJ",
-			"roundness": {
-				"type": 3
-			},
-			"seed": 30661563,
-			"version": 404,
-			"versionNonce": 1866860117,
+			"roundness": null,
+			"seed": 85270,
+			"version": 90,
+			"versionNonce": 1932197973,
+			"updated": 1714002895560,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1714002426121,
-			"link": "[[附件/Pasted Image 20240425074553_456.jpg]]",
-			"locked": true,
-			"status": "pending",
-			"fileId": "0647bea4b88b2bfb37555f9f7a674bd3df2a6436",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 404,
-			"versionNonce": 348386683,
-			"isDeleted": false,
-			"id": "XARYLb2y",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 0,
-			"y": 4.444444444444457,
-			"strokeColor": "transparent",
-			"backgroundColor": "#fff",
-			"width": 658,
-			"height": 800,
-			"seed": 30661563,
 			"groupIds": [],
-			"frameId": "MBxc1bWJ",
-			"roundness": {
-				"type": 3
-			},
 			"boundElements": [],
-			"updated": 1714002426121,
-			"link": "[[附件/Pasted Image 20240425074553_456.jpg]]",
+			"link": "[[附件/cropped_Pasted Image 20240425074553_456_0.md]]",
 			"locked": true,
-			"status": "pending",
-			"fileId": "0647bea4b88b2bfb37555f9f7a674bd3df2a6436",
+			"fileId": "42a6998c3fb6fe12285d1657be87bfff856797d6",
 			"scale": [
 				1,
 				1
-			]
+			],
+			"frameId": "RJhoEpjE"
 		},
 		{
 			"type": "frame",
-			"version": 224,
-			"versionNonce": 62203797,
+			"version": 92,
+			"versionNonce": 773038581,
 			"isDeleted": false,
-			"id": "MBxc1bWJ",
+			"id": "RJhoEpjE",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 95.11108398437489,
-			"y": 120.00001695421008,
+			"x": 203.4286063058035,
+			"y": -8.000008719308056,
 			"strokeColor": "#000",
 			"backgroundColor": "transparent",
-			"width": 554.8889702690974,
-			"height": 322.66664293077264,
-			"seed": 44376,
+			"width": 658,
+			"height": 800,
+			"seed": 67293,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714002425880,
-			"link": "[[附件/Pasted Image 20240425074553_456.jpg]] ^XARYLb2y[[附件/Pasted Image 20240425074553_456.jpg]]",
+			"updated": 1714002898941,
+			"link": "[[附件/cropped_Pasted Image 20240425074553_456_0.md]]",
 			"locked": false,
 			"name": "Adjust frame to crop image. Add elements for mask: White shows, Black hides.",
 			"customData": {
@@ -134,6 +94,42 @@ s7FpSYdY: [[附件/Pasted Image 20240425074553_456.jpg]]
 					"nameColor": "#C2C2C2"
 				}
 			}
+		},
+		{
+			"id": "XNVlhxo1",
+			"type": "text",
+			"x": 448.0446472167969,
+			"y": 121.86606270926336,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "black",
+			"backgroundColor": "black",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 50,
+			"groupIds": [],
+			"frameId": "RJhoEpjE",
+			"roundness": null,
+			"seed": 696858811,
+			"version": 2,
+			"versionNonce": 1377938901,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1714002896746,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -151,10 +147,10 @@ s7FpSYdY: [[附件/Pasted Image 20240425074553_456.jpg]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 134.11109754774304,
-		"scrollY": 128.85883246527777,
+		"scrollX": 24.812495640345958,
+		"scrollY": 160.7232230050223,
 		"zoom": {
-			"value": 0.9
+			"value": 0.7000000000000001
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

@@ -10,11 +10,11 @@ excalidraw-plugin: parsed
 
 ## Element Links
 
-C77aPxC2: [[附件/Pasted Image 20240425074553_456.jpg]] ^wQiblOjL[[附件/Pasted Image 20240425074553_456.jpg]]
+MBxc1bWJ: [[Pasted Image 20240425074553_456.jpg]] ^XARYLb2y[[Pasted Image 20240425074553_456.jpg]]
 
-wQiblOjL: [[附件/Pasted Image 20240425074553_456.jpg]]
+XARYLb2y: [[Pasted Image 20240425074553_456.jpg]]
 
-kNcDDZnN: [[附件/Pasted Image 20240425074553_456.jpg]]
+s7FpSYdY: [[Pasted Image 20240425074553_456.jpg]]
 
 ## Embedded Files
 
@@ -31,29 +31,31 @@ kNcDDZnN: [[附件/Pasted Image 20240425074553_456.jpg]]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.4",
 	"elements": [
 		{
+			"id": "s7FpSYdY",
 			"type": "image",
-			"version": 154,
-			"versionNonce": 124026209,
-			"isDeleted": false,
-			"id": "kNcDDZnN",
+			"x": 0,
+			"y": 4.444444444444457,
+			"width": 658,
+			"height": 800,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#fff",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"angle": 0,
-			"x": 0,
-			"y": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#fff",
-			"width": 658,
-			"height": 800,
-			"seed": 257175163,
 			"groupIds": [],
-			"frameId": "C77aPxC2",
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1714002849859,
+			"frameId": "MBxc1bWJ",
+			"roundness": {
+				"type": 3
+			},
+			"seed": 30661563,
+			"version": 404,
+			"versionNonce": 1866860117,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714002426121,
 			"link": "[[附件/Pasted Image 20240425074553_456.jpg]]",
 			"locked": true,
 			"status": "pending",
@@ -65,10 +67,10 @@ kNcDDZnN: [[附件/Pasted Image 20240425074553_456.jpg]]
 		},
 		{
 			"type": "image",
-			"version": 154,
-			"versionNonce": 124026209,
+			"version": 404,
+			"versionNonce": 348386683,
 			"isDeleted": false,
-			"id": "wQiblOjL",
+			"id": "XARYLb2y",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
@@ -76,17 +78,19 @@ kNcDDZnN: [[附件/Pasted Image 20240425074553_456.jpg]]
 			"opacity": 100,
 			"angle": 0,
 			"x": 0,
-			"y": 0,
+			"y": 4.444444444444457,
 			"strokeColor": "transparent",
 			"backgroundColor": "#fff",
 			"width": 658,
 			"height": 800,
-			"seed": 257175163,
+			"seed": 30661563,
 			"groupIds": [],
-			"frameId": "C77aPxC2",
-			"roundness": null,
+			"frameId": "MBxc1bWJ",
+			"roundness": {
+				"type": 3
+			},
 			"boundElements": [],
-			"updated": 1714002849859,
+			"updated": 1714002426121,
 			"link": "[[附件/Pasted Image 20240425074553_456.jpg]]",
 			"locked": true,
 			"status": "pending",
@@ -98,29 +102,29 @@ kNcDDZnN: [[附件/Pasted Image 20240425074553_456.jpg]]
 		},
 		{
 			"type": "frame",
-			"version": 3,
-			"versionNonce": 878480219,
+			"version": 224,
+			"versionNonce": 62203797,
 			"isDeleted": false,
-			"id": "C77aPxC2",
+			"id": "MBxc1bWJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 0,
-			"y": 0,
+			"x": 95.11108398437489,
+			"y": 120.00001695421008,
 			"strokeColor": "#000",
 			"backgroundColor": "transparent",
-			"width": 658,
-			"height": 800,
-			"seed": 17411,
+			"width": 554.8889702690974,
+			"height": 322.66664293077264,
+			"seed": 44376,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714002850371,
-			"link": "[[附件/Pasted Image 20240425074553_456.jpg]] ^wQiblOjL[[附件/Pasted Image 20240425074553_456.jpg]]",
+			"updated": 1714002425880,
+			"link": "[[附件/Pasted Image 20240425074553_456.jpg]] ^XARYLb2y[[附件/Pasted Image 20240425074553_456.jpg]]",
 			"locked": false,
 			"name": "Adjust frame to crop image. Add elements for mask: White shows, Black hides.",
 			"customData": {
@@ -147,8 +151,8 @@ kNcDDZnN: [[附件/Pasted Image 20240425074553_456.jpg]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 84.33333333333331,
-		"scrollY": 36.118062337239564,
+		"scrollX": 134.11109754774304,
+		"scrollY": 128.85883246527777,
 		"zoom": {
 			"value": 0.9
 		},

@@ -10,11 +10,11 @@ excalidraw-plugin: parsed
 
 ## Element Links
 
-TJHqETZj: [[附件/Pasted Image 20240424011418_298.jpg]] ^svilSIje[[附件/Pasted Image 20240424011418_298.jpg]]
+TJHqETZj: [[Pasted Image 20240424011418_298.jpg]] ^svilSIje[[Pasted Image 20240424011418_298.jpg]]
 
-svilSIje: [[附件/Pasted Image 20240424011418_298.jpg]]
+svilSIje: [[Pasted Image 20240424011418_298.jpg]]
 
-jYSExawn: [[附件/Pasted Image 20240424011418_298.jpg]]
+jYSExawn: [[Pasted Image 20240424011418_298.jpg]]
 
 ## Embedded Files
 

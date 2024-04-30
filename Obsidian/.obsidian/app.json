@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "attachmentFolderPath": "_drafts/附件",
+  "attachmentFolderPath": "附件",
   "newFileLocation": "folder",
   "vimMode": false,
   "defaultViewMode": "preview",

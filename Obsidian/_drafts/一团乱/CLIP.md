@@ -17,7 +17,7 @@
 1. **文本编码器（Text Encoder）**：采用 Transformer 结构，用于将输入的自然语言文本转化为高维向量表示。
 2. **图像编码器（Image Encoder）**：可以使用 ResNet 或 Vision Transformer 等视觉模型，将输入的图像转化为相应的高维向量表示。
 
-![[Pasted image 20240419084657.png]]
+![[../../附件/Pasted image 20240419084657.png]]
 
 预训练过程中，CLIP 通过**对比学习（contrastive learning）方法**，让模型学习到图像和其相关描述文本之间的相似性，并最大化它们之间的关联度，同时最小化与不相关文本对之间的关联度。经过这样的训练后，CLIP 模型能够捕捉到图像与文本之间的语义关系，并展现出强大的**迁移学习能力**（能够在不同视觉任务之间有效地复用学到的知识和特征表示，无需针对每个新任务进行大量的重新训练。），能够在未经特定任务微调的情况下，执行零样本（zero-shot）分类任务，即对于未曾见过类别的新图像，仅凭文本描述就能判断出其所属类别。
 
@@ -35,7 +35,7 @@ CLIP 的创新之处在于打破了传统依赖大量标注数据进行图像分
 
 使用 CLIP 实现 zero-shot，很简单，仅仅只需三个步骤（具体参考案例：[CLIP/notebooks/Interacting_with_CLIP.ipynb at main · openai/CLIP (github.com)](https://github.com/openai/CLIP/blob/main/notebooks/Interacting_with_CLIP.ipynb)）：
 
-![[Pasted image 20240419090710.png]]
+![[../../附件/Pasted image 20240419090710.png]]
 
 1. 处理文本，并编码类别提示。
 
@@ -80,7 +80,7 @@ predicted_class_text = class_texts[predicted_class_index]
 
 > CLIP 可以用在指导图像编辑任务上，[HairCLIP](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2112.05142) 这篇工作用 CLIP 来定制化修改发型：
 >
-> ![[Pasted image 20240419093601.png]]
+> ![[../../附件/Pasted image 20240419093601.png]]
 
 ### 图像生成
 

@@ -10,9 +10,9 @@ excalidraw-plugin: parsed
 
 ## Element Links
 
-iyq4krLO: [[附件/cropped_cropped_Pasted Image 20240425074553_456_0.md]]
+iyq4krLO: [[cropped_cropped_Pasted Image 20240425074553_456_0]]
 
-DXgSyyz1: [[附件/cropped_cropped_Pasted Image 20240425074553_456_0.md]]
+DXgSyyz1: [[cropped_cropped_Pasted Image 20240425074553_456_0]]
 
 ## Embedded Files
 

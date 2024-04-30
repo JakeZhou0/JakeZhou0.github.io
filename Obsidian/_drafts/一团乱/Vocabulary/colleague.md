@@ -15,4 +15,4 @@ tags:
 
 ---
 
-![[Pasted image 20231229151411.png]]
+![[../../../附件/Pasted image 20231229151411.png]]
