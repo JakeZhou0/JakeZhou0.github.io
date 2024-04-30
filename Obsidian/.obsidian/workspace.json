@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc632dc97e66099f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-9-20-ES6-Day1.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-9-20-ES6-Day1.md",
+                "file": "_posts/2023-7-11-博客功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-9-20-ES6-Day1.md",
+                "file": "_posts/2023-7-11-博客功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-9-20-ES6-Day1.md"
+                "file": "_posts/2023-7-11-博客功能.md"
               }
             }
           }
@@ -202,8 +188,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cc632dc97e66099f",
+  "active": "02ffa0a66691eda3",
   "lastOpenFiles": [
+    "_posts/Pasted image 20240430125850.png",
+    "_posts/Pasted image 20240430125844.png",
+    "Pasted image 20240430125805.png",
+    "Pasted image 20240430125723.png",
+    "Pasted image 20240430125453.png",
     "_posts/2023-7-11-博客功能.md",
     "_posts/2023-9-20-ES6-Day1.md",
     "_drafts/一团乱/掌握Java基础编程能力（回顾、补充）.md",
@@ -235,16 +226,11 @@
     "README.md",
     "Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
     "总结.md",
-    "引用.md",
     "未命名.canvas",
     "投票系统需求文档.txt",
     "Excalidraw",
     "一团乱/Knowledge/CS/Java笔记/素材/Pasted image 20230308100131.png",
     "一团乱/Knowledge/CS/Java笔记/素材/Pasted image 20230308100118.png",
-    "一团乱/Knowledge/CS/Java笔记/素材/Pasted image 20230308083418.png",
-    "一团乱/Knowledge/CS/Java笔记/素材/Pasted image 20230308082753.png",
-    "一团乱/Knowledge/CS/Java笔记/素材/Pasted image 20230305145737.png",
-    "一团乱/Knowledge/CS/Java笔记/素材/Pasted image 20230305145622.png",
     "一团乱/Knowledge/CS/Jupyter/数据分析.ipynb",
     "一团乱/Knowledge/CS/Jupyter/stopwords_comments.csv",
     "一团乱/Knowledge/CS/Jupyter/scu_stopwords.txt",
