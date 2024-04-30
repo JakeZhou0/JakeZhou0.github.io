@@ -15,7 +15,7 @@ media: https://www.bilibili.com/video/BV1m14y1d7DW/
 
 ## 博主的目标
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT31.61S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:00:31]] [00:00:31](https://www.bilibili.com/video/BV1m14y1d7DW/#t=31.61)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT31.61S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:00:31]] [00:00:31](https://www.bilibili.com/video/BV1m14y1d7DW/#t=31.61)
 - 便捷高效
 - 输出好的创意。
 
@@ -23,7 +23,7 @@ media: https://www.bilibili.com/video/BV1m14y1d7DW/
 
 ## 方法论（使用的方法与工具）
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT45.077S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:00:45]] [00:00:45](https://www.bilibili.com/video/BV1m14y1d7DW/#t=45.08)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT45.077S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:00:45]] [00:00:45](https://www.bilibili.com/video/BV1m14y1d7DW/#t=45.08)
 
 ### 方法
 
@@ -42,7 +42,7 @@ media: https://www.bilibili.com/video/BV1m14y1d7DW/
 
 ### 什么是 " 专业且博学的 " 的 PK 系统
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT1M48.798S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:01:48]] [00:01:48](https://www.bilibili.com/video/BV1m14y1d7DW/#t=01:48.80)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT1M48.798S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:01:48]] [00:01:48](https://www.bilibili.com/video/BV1m14y1d7DW/#t=01:48.80)
 这个 PK 系统分为两大模块：
 1. 专业（Professional）
 2. 博学（Knowledgeable）
@@ -57,7 +57,7 @@ media: https://www.bilibili.com/video/BV1m14y1d7DW/
 
 #### 专业（Professional）
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT1M56.055S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:01:56]] [00:01:56](https://www.bilibili.com/video/BV1m14y1d7DW/#t=01:56.05)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT1M56.055S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:01:56]] [00:01:56](https://www.bilibili.com/video/BV1m14y1d7DW/#t=01:56.05)
 - 以 "**项目/兴趣**" 为核心，根据 " 项目/兴趣 " 吸收 " 多个领域 " 的信息知识。拓展深入 " 项目/兴趣 " 的**专业性**（Professional）。（需要深入专入的作业。）
 
 > 为什么 " 项目/兴趣 " 作为短期的目标？
@@ -68,18 +68,18 @@ media: https://www.bilibili.com/video/BV1m14y1d7DW/
 
 #### 博学
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M8.404S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:08]] [00:02:08](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:08.40)
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M15.118S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:15]] [00:02:15](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:15.12)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M8.404S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:08]] [00:02:08](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:08.40)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M15.118S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:15]] [00:02:15](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:15.12)
 - 艺术
 	- 美学
 	- 图像
 	- 广告
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M19.459S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:19]] [00:02:19](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:19.46)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M19.459S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:19]] [00:02:19](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:19.46)
 - 科技
 	- 最新的科技
 	- 技术
 	- 工具
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M26.678S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:26]] [00:02:26](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:26.68)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M26.678S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:26]] [00:02:26](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:26.68)
 - 文化
 	- 通识知识
 	- 方法论
@@ -87,11 +87,11 @@ media: https://www.bilibili.com/video/BV1m14y1d7DW/
 
 将博学分为三大类的**原因**：
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M42.275S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:42]] [00:02:42](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:42.28)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT2M42.275S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:02:42]] [00:02:42](https://www.bilibili.com/video/BV1m14y1d7DW/#t=02:42.28)
 
 > 学习达芬奇的思想。
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT3M31.023S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:03:31]] [00:03:31](https://www.bilibili.com/video/BV1m14y1d7DW/#t=03:31.02)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT3M31.023S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:03:31]] [00:03:31](https://www.bilibili.com/video/BV1m14y1d7DW/#t=03:31.02)
 - 跨学的学习知识——更好的提升自己的能力。
 
 ## 实践
@@ -100,42 +100,42 @@ media: https://www.bilibili.com/video/BV1m14y1d7DW/
 
 #### 知识地图的好处
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT3M50.681S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:03:50]] [00:03:50](https://www.bilibili.com/video/BV1m14y1d7DW/#t=03:50.68)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT3M50.681S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:03:50]] [00:03:50](https://www.bilibili.com/video/BV1m14y1d7DW/#t=03:50.68)
 - 明确知识之间的关系。
 - 分级管理信息。
 
 #### 建立 Map 的方法
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT3M54.931S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:03:54]] [00:03:54](https://www.bilibili.com/video/BV1m14y1d7DW/#t=03:54.93)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT3M54.931S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:03:54]] [00:03:54](https://www.bilibili.com/video/BV1m14y1d7DW/#t=03:54.93)
 - 使用 Obsidian 的（Excalidraw）插件
 
 具体要求我们可以参照下图来进行地图搭建：
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT5M5.966S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:05:05]] [00:05:05](https://www.bilibili.com/video/BV1m14y1d7DW/#t=05:05.97)
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT4M36.031S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:04:36]] [00:04:36](https://www.bilibili.com/video/BV1m14y1d7DW/#t=04:36.03)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT5M5.966S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:05:05]] [00:05:05](https://www.bilibili.com/video/BV1m14y1d7DW/#t=05:05.97)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT4M36.031S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:04:36]] [00:04:36](https://www.bilibili.com/video/BV1m14y1d7DW/#t=04:36.03)
 - 根据上图可得知每个区的的字体大小来进行层级分类，不同区域之间使用不同的颜色区分。
 
 > 根据自身需求进行分类以及标记等等。
 
 #### 为什么这样搭建 Map 的例子
 
-- - ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT4M55.043S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:04:55]] [00:04:55](https://www.bilibili.com/video/BV1m14y1d7DW/#t=04:55.04)
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT5M0.321S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:05:00]] [00:05:00](https://www.bilibili.com/video/BV1m14y1d7DW/#t=05:00.32)
+- - ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT4M55.043S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:04:55]] [00:04:55](https://www.bilibili.com/video/BV1m14y1d7DW/#t=04:55.04)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT5M0.321S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:05:00]] [00:05:00](https://www.bilibili.com/video/BV1m14y1d7DW/#t=05:00.32)
 - 我们在使用地图是的思路就是如此——中国→四川→泸州。
 
 ### 使用标签系统替换文件夹管理系统
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT5M48.893S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:05:48]] [00:05:48](https://www.bilibili.com/video/BV1m14y1d7DW/#t=05:48.89)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT5M48.893S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:05:48]] [00:05:48](https://www.bilibili.com/video/BV1m14y1d7DW/#t=05:48.89)
 
 #### 以下为使用标签系统的具体方法
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT5M57.899S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:05:57]] [00:05:57](https://www.bilibili.com/video/BV1m14y1d7DW/#t=05:57.90)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT5M57.899S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:05:57]] [00:05:57](https://www.bilibili.com/video/BV1m14y1d7DW/#t=05:57.90)
 
 > 我得思考一下这样做的好处，以及如何系统的学习使用标签的方法。
 > 相关知识
 
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M10.427S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:06:10]] [00:06:10](https://www.bilibili.com/video/BV1m14y1d7DW/#t=06:10.43)
-- ![[../附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M15.016S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:06:15]] [00:06:15](https://www.bilibili.com/video/BV1m14y1d7DW/#t=06:15.02)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M10.427S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:06:10]] [00:06:10](https://www.bilibili.com/video/BV1m14y1d7DW/#t=06:10.43)
+- ![[附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M15.016S.webp|组织信息的Obsidian实践，建立专业博学的知识地图 - 00:06:15]] [00:06:15](https://www.bilibili.com/video/BV1m14y1d7DW/#t=06:15.02)
 
 > 这是我学习使用这个 PK 知识系统的简单框架图，最后我将会使用这个 PK 知识系统来搭建自己和管理自己的知识库。
 > 还有一件事情，我需要在深入学习一下每个步骤的具体实践原理。

@@ -1,7 +1,7 @@
 ## Introduction
 
 - People like it when the **sun** is **shining**, and the sky is **blue**.  
-![[../../附件/Pasted image 20231218195103.png]]
+![[../附件/Pasted image 20231218195103.png]]
 
 ## How to Talk about Sunny Weather?
 
