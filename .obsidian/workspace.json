@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "2338198d7ab7ae20",
+    "type": "split",
+    "children": [
+      {
+        "id": "bee8cfcaad4ffcd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a15e082429e431b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/一团乱/Knowledge/杂物箱/掌握Java基础编程能力（回顾、补充）.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89423704f0da89ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3fe29947bcac174",
+        "type": "tabs",
+        "dimension": 37.5,
+        "children": [
+          {
+            "id": "db860d8e87e3408a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f7f0c95876cb9e6",
+        "type": "tabs",
+        "dimension": 62.5,
+        "children": [
+          {
+            "id": "d8538e4beb3fe1fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1d0f817c4496b0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#归档/📦/笔记",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "6a3a89574ac44d74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "99e7b91626d610ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "39e5814985b0659e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45757f9064948e4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/一团乱/Knowledge/杂物箱/掌握Java基础编程能力（回顾、补充）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e801aed493f5d705",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_drafts/一团乱/Knowledge/杂物箱/掌握Java基础编程能力（回顾、补充）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "462f584534aa5e8d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "0ad8abf5953eb82f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/一团乱/Knowledge/杂物箱/掌握Java基础编程能力（回顾、补充）.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "45c198c4f1838338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "780b9c7fe8b51951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-wordpress:发布到 WordPress": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "1a15e082429e431b",
+  "lastOpenFiles": [
+    "_drafts/一团乱/标准 Java 库.md",
+    "_drafts/一团乱/Knowledge/杂物箱/掌握Java基础编程能力（回顾、补充）.md",
+    "_posts/2023-7-11-博客功能.md",
+    "_drafts/一团乱/版本管理相关学习，应用于搭建博客项目中.md",
+    "excalidraw 24-04-30 09.11.40.ex",
+    "_drafts/一团乱/博客/2023-7-11-Responsive Web Design.md",
+    "_drafts/一团乱/博客/2023-7-9-如何制作一个博客.md",
+    "_drafts/一团乱/博客/2023-7-9-人生目标.md",
+    "_drafts/Excalidraw/Drawing 2024-04-28 11.excalidraw.md",
+    "_drafts/2023-9-20-ES6-Day2.md",
+    "_drafts/2023-9-20-ES6-Day1.md",
+    "_drafts/2023-9-18-SpringBoot项目Day1.md",
+    "excalidraw 24-04-29 11.18.29.ex",
+    "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT3M49.885S.webp",
+    "_drafts/附件/插入模版/错误.md",
+    "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT4M27.307S.webp",
+    "_drafts/附件/模板/笔记模板.md",
+    "_drafts/附件/模板/日记模板.md",
+    "_drafts/附件/模板/单词模板.md",
+    "_drafts/附件/插入模版/问题.md",
+    "_drafts/附件/插入模版/重要.md",
+    "_drafts/附件/插入模版/注意.md",
+    "_drafts/附件/插入模版/总结.md",
+    "_drafts/附件/插入模版/引用.md",
+    "_drafts/附件/插入模版/完成.md",
+    "_drafts/附件/img/项目协作.svg",
+    "_drafts/附件/插入模版/代办.md",
+    "_drafts/附件/img/数据归档2.5D.svg",
+    "_drafts/附件/img/财富舞台背后.svg",
+    "_drafts/附件/img/打电话.svg",
+    "_drafts/附件/img/library.excalidrawlib",
+    "_drafts/附件/img/天文观察.svg",
+    "_drafts/附件/这10个网站，真的打死也不能删！！！PT1.711S.webp",
+    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT7.964S.webp",
+    "_drafts/附件/组织信息的Obsidian实践，建立专业博学的知识地图PT6M9.209S.webp",
+    "_drafts/附件/模板",
+    "_drafts/附件/插入模版",
+    "_drafts/附件/PingFang SC Regular.ttf",
+    "_drafts/附件/Pasted%20image%2020230918094234.png.md",
+    "_drafts/附件/img.zip",
+    "_drafts/附件/img",
+    "_drafts/附件/cropped_Pasted Image 20240425074553_456.md",
+    "_drafts/附件/cropped_Pasted Image 20240425074553_456_0.md",
+    "_drafts/附件/cropped_Pasted Image 20240425074136_674.md",
+    "_drafts/附件/capsLK-Down.json",
+    "_drafts/附件/B题-基于多项目主要目的模态特征融合的图像文本检索.pdf",
+    "未命名.canvas",
+    "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
+    "一团乱/意识/Todo/计划.canvas",
+    "一团乱/Knowledge/附件/未命名.canvas",
+    "JavaScript 大纲.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
+  ]
+}
