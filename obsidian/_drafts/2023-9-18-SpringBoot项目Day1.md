@@ -2,7 +2,7 @@
 title: Spring Boot 瑞吉项目
 date: 2023-9-18
 categories: [程序开发, Java, Spring Boot, 实战项目制作]
-tags: [项目开发, Spring Boot, 程序开发]     # TAG names should always be lowercase
+tags: [归档/资源/项目开发, 归档/资源/Spring 归档/资源/Boot, 归档/资源/程序开发]     # TAG names should always be lowercase
 ---
 
 ## 写在前面

@@ -34,7 +34,7 @@
     "_layouts/",
     "_plugins/",
     "_sass/",
-    "_site/",
-    "_drafts/"
-  ]
+    "_site/"
+  ],
+  "showUnsupportedFiles": false
 }

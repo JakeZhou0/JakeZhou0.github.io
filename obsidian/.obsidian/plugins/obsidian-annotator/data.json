@@ -6,7 +6,7 @@
     "sepia": 0
   },
   "debugLogging": false,
-  "customDefaultPath": "一团乱/Books",
+  "customDefaultPath": "",
   "epubSettings": {
     "readingMode": "pagination",
     "fontSize": 100

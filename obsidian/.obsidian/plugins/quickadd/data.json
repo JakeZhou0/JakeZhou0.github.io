@@ -29,6 +29,34 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "dcc466ba-e91d-4113-8b91-2b71e84d89eb",
+      "name": "博客发布文章",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [
@@ -41,7 +69,7 @@
   ],
   "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "附件/模板",
+  "templateFolderPath": "_drafts/附件/模板",
   "announceUpdates": true,
   "version": "1.8.1",
   "disableOnlineFeatures": true,

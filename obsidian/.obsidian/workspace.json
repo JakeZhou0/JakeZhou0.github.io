@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "576f03300fcd9c96",
+        "id": "bee8cfcaad4ffcd5",
         "type": "tabs",
         "children": [
           {
-            "id": "0246b1ff4dbe1ae1",
+            "id": "1a15e082429e431b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-7-11-博客功能.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -36,19 +41,8 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "780b9c7fe8b51951",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0f7f0c95876cb9e6",
@@ -72,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#归档/📦/笔记",
+                "query": "tag:#归档",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -94,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "99e7b91626d610ae",
@@ -110,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-7-11-博客功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-7-11-博客功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +145,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-7-11-博客功能.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "45c198c4f1838338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "780b9c7fe8b51951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -159,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -167,17 +181,26 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
       "media-extended:Open media": false,
-      "code-files:Create Code File": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-wordpress:发布到 WordPress": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "excalidraw-cn:Create New Excalidraw File": false
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0246b1ff4dbe1ae1",
+  "active": "db860d8e87e3408a",
   "lastOpenFiles": [
+    "_drafts/一团乱/版本管理相关学习，应用于搭建博客项目中.md",
+    "excalidraw 24-04-30 09.11.40.ex",
+    "_drafts/一团乱/博客/2023-7-11-Responsive Web Design.md",
+    "_drafts/一团乱/博客/2023-7-9-如何制作一个博客.md",
+    "_drafts/一团乱/博客/2023-7-9-人生目标.md",
+    "_drafts/Excalidraw/Drawing 2024-04-28 11.excalidraw.md",
+    "_drafts/2023-9-20-ES6-Day2.md",
+    "_drafts/2023-9-20-ES6-Day1.md",
+    "_drafts/2023-9-18-SpringBoot项目Day1.md",
     "excalidraw 24-04-29 11.18.29.ex",
     "_drafts/附件/03-如何设置标签体系，Obsidian新手入门系列 (利用层级标签组织笔记系统)PT3M49.885S.webp",
     "_drafts/附件/插入模版/错误.md",
@@ -212,18 +235,8 @@
     "_drafts/附件/cropped_Pasted Image 20240425074136_674.md",
     "_drafts/附件/cropped_Pasted Image 20240424011418_298.md",
     "_drafts/附件/cropped_cropped_Pasted Image 20240425074553_456_0.md",
-    "_drafts/附件/cropped_cropped_cropped_Pasted Image 20240425074553_456_0.md",
     "_drafts/附件/capsLK-Down.json",
     "_drafts/附件/B题-基于多项目主要目的模态特征融合的图像文本检索.pdf",
-    "_drafts/附件",
-    "_drafts/Excalidraw/Drawing 2024-04-28 11.excalidraw.md",
-    "_drafts/Excalidraw",
-    "_drafts/总结.md",
-    "_tabs/tags.md",
-    "_tabs/categories.md",
-    "_tabs/archives.md",
-    "_tabs/about.md",
-    "README.md",
     "未命名.canvas",
     "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
     "一团乱/意识/Todo/计划.canvas",

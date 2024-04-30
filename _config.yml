@@ -184,6 +184,8 @@ exclude:
   - rollup.config.js
   - node_modules
   - package*.json
+  - .obsidian
+  - .trash
 # exclude 指定了 Jekyll 在构建站点时应该排除的文件和目录。
 
 jekyll-archives:

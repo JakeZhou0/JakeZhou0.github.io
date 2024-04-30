@@ -9,8 +9,6 @@
   "omnisearch",
   "tag-wrangler",
   "obsidian-echarts",
-  "code-emitter",
-  "code-files",
   "obsidian-wordpress",
   "obsidian-hover-editor",
   "table-editor-obsidian",
@@ -19,5 +17,6 @@
   "contribution-graph",
   "calendar",
   "obsidian-git",
-  "excalidraw-cn"
+  "excalidraw-cn",
+  "obsidian-excalidraw-plugin"
 ]
