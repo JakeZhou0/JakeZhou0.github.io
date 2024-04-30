@@ -128,9 +128,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  obsidian:
-    output: true
-    permalink: /:collection/:path/
 # 定义了 Jekyll 的集合，用于组织内容。
 
 defaults:
