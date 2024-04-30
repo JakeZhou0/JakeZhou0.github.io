@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9023db3cd936ac36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/一团乱/blog发布参考模板.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -190,12 +203,15 @@
   },
   "active": "02ffa0a66691eda3",
   "lastOpenFiles": [
+    "_drafts/一团乱/blog发布参考模板.md",
+    "_drafts/一团乱/Pasted image 20240430130232.png",
+    "_drafts/一团乱/Pasted image 20240430130206.png",
+    "_posts/2023-7-11-博客功能.md",
     "_posts/Pasted image 20240430125850.png",
     "_posts/Pasted image 20240430125844.png",
     "Pasted image 20240430125805.png",
     "Pasted image 20240430125723.png",
     "Pasted image 20240430125453.png",
-    "_posts/2023-7-11-博客功能.md",
     "_posts/2023-9-20-ES6-Day1.md",
     "_drafts/一团乱/掌握Java基础编程能力（回顾、补充）.md",
     "_drafts/一团乱/标准 Java 库.md",
@@ -216,7 +232,6 @@
     "_posts/Pasted image 20240430110009.png",
     "_posts/_drafts/未命名.md",
     "_posts/_drafts",
-    "_posts/Pasted image 20240430103725.png",
     "附件/2023-9-18-SpringBoot项目Day1.md",
     "_posts/2023-9-18-SpringBoot项目Day1.md",
     "_drafts/Excalidraw/Drawing 2024-04-28 11.excalidraw.md",
@@ -225,12 +240,9 @@
     "_posts",
     "README.md",
     "Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
-    "总结.md",
     "未命名.canvas",
     "投票系统需求文档.txt",
     "Excalidraw",
-    "一团乱/Knowledge/CS/Java笔记/素材/Pasted image 20230308100131.png",
-    "一团乱/Knowledge/CS/Java笔记/素材/Pasted image 20230308100118.png",
     "一团乱/Knowledge/CS/Jupyter/数据分析.ipynb",
     "一团乱/Knowledge/CS/Jupyter/stopwords_comments.csv",
     "一团乱/Knowledge/CS/Jupyter/scu_stopwords.txt",
