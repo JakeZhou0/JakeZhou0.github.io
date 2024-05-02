@@ -11,8 +11,13 @@
             "id": "8f7e0464bd13f8ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/附件/模板/Blog 发布模板.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_drafts/附件/模板/Blog 发布模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_drafts/附件/模板/Blog 发布模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_drafts/附件/模板/Blog 发布模板.md"
+              }
             }
           }
         ]
@@ -160,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +190,10 @@
   },
   "active": "8f7e0464bd13f8ac",
   "lastOpenFiles": [
-    "_drafts/一团乱/意识/日记/2024年05月03日.md",
     "_posts/2023-7-11-博客功能.md",
+    "_posts/2023-9-20-ES6-Day1.md",
+    "_drafts/附件/模板/Blog 发布模板.md",
+    "_drafts/一团乱/意识/日记/2024年05月03日.md",
     "Excalidraw/Drawing 2024-05-02 15.excalidraw.md",
     "Excalidraw",
     "_drafts/附件/模板/blog发布参考模板.md",
@@ -196,7 +206,6 @@
     "Pasted image 20240430125805.png",
     "Pasted image 20240430125723.png",
     "Pasted image 20240430125453.png",
-    "_posts/2023-9-20-ES6-Day1.md",
     "_drafts/一团乱/掌握Java基础编程能力（回顾、补充）.md",
     "_drafts/一团乱/标准 Java 库.md",
     "_drafts/一团乱/算法和数据结构.md",
@@ -220,7 +229,6 @@
     "_drafts/一团乱/MindMap/Board/搭建图像文本检索模型相关思路.md",
     "_drafts/一团乱/MindMap/Board/要事评判.md",
     "_posts",
-    "README.md",
     "未命名.canvas",
     "投票系统需求文档.txt",
     "一团乱/Knowledge/CS/Jupyter/数据分析.ipynb",
