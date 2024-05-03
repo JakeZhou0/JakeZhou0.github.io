@@ -14,11 +14,7 @@
       </p>
 
       <p>
-        <a
-          href="http://beian.miit.gov.cn/"
-          target="_blank"
-          rel="noopener">渝ICP备2023013935号-1</a>
-        {{- ' ©' }}
+        {{- '©' }}
         {{ 'now' | date: '%Y' }}
         <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
         {% if site.data.locales[include.lang].copyright.brief %}
@@ -30,6 +26,12 @@
           </span>
         {% endif %}
       </p>
+    </div>
+    <div class="d-flex justify-content-center align-items-center text-muted mx-md-3">
+      <a
+        href="http://beian.miit.gov.cn/"
+        target="_blank"
+        rel="noopener">渝ICP备2023013935号-1</a>
     </div>
   </div>
 </footer>
