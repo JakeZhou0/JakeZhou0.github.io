@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2023-7-11-博客功能.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-5-3-22-选择比努力重要.md",
+                "file": "_posts/2023-7-11-博客功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-5-3-22-选择比努力重要.md",
+                "file": "_posts/2023-7-11-博客功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-5-3-22-选择比努力重要.md"
+                "file": "_posts/2023-7-11-博客功能.md"
               }
             }
           }
@@ -215,16 +214,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8465c62a2c956bf1",
+  "active": "8f7e0464bd13f8ac",
   "lastOpenFiles": [
-    "_drafts/附件/模板/blog发布参考模板.md",
+    "_posts/2023-9-20-ES6-Day1.md",
     "_posts/2024-5-3-22-选择比努力重要.md",
-    "_posts/2023-7-11-博客功能.md",
     "_posts/2024-5-3-22-个人网站的管理.md",
+    "_posts/2023-7-11-博客功能.md",
+    "_drafts/附件/模板/blog发布参考模板.md",
     "_drafts/一团乱/意识/日记/2024年05月03日.md",
     "_drafts/附件/模板/Blog 发布模板.md",
     "_posts/2024-5-3-22-你好.md",
-    "_posts/2023-9-20-ES6-Day1.md",
     "Excalidraw/Drawing 2024-05-02 15.excalidraw.md",
     "Excalidraw",
     "_posts/Pasted image 20240430195007.png",
