@@ -4,7 +4,7 @@ source 'https://gems.ruby-china.com'
 
 gemspec
 
-gem "jekyll-admin"
+# gem "jekyll-admin"
 
 
 group :test do
