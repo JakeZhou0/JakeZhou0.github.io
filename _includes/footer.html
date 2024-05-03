@@ -14,10 +14,13 @@
       </p>
 
       <p>
-        {{- ' | ' }}
         {{- '©' }}
         {{ 'now' | date: '%Y' }}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>. 
+        -<a
+          href="http://beian.miit.gov.cn/"
+          target="_blank"
+          rel="noopener">渝ICP备2023013935号-1</a>-
         {% if site.data.locales[include.lang].copyright.brief %}
           <span
             data-bs-toggle="tooltip"
@@ -27,19 +30,6 @@
           </span>
         {% endif %}
       </p>
-
-      <!-- Existing content... -->
-
-      <!-- 新增备案信息 -->
-      <p>
-        {{- ' | ' }}
-        <a
-          href="http://beian.miit.gov.cn/"
-          target="_blank"
-          rel="noopener">渝ICP备2023013935号-1</a>
-      </p>
-      {{- '。' }}
-    <!-- Existing content... -->
     </div>
   </div>
 </footer>
