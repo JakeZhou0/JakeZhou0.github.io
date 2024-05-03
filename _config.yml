@@ -198,6 +198,5 @@ jekyll-archives:
     category: /categories/:name/
 # jekyll-archives 插件设置，用于自动生成分类和标签的归档页面。
 
-plugins:
-  # - jekyll-admin
-# 启用的 Jekyll 插件列表。
+# plugins:
+#   - jekyll-admin
