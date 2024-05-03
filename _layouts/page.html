@@ -61,7 +61,6 @@ layout: default
         {% assign _include_path = _include | append: '.html' %}
         {% include {{ _include_path }} lang=lang %}
       {% endfor %}
-      {% include_cached footer.html lang=lang %}
     </div>
   </div>
 {% endif %}
