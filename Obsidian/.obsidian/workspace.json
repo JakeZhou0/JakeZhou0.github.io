@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-7-11-博客功能.md",
+                "file": "_drafts/一团乱/意识/日记/2024年05月04日.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#资源",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-7-11-博客功能.md",
+                "file": "_drafts/一团乱/意识/日记/2024年05月04日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-7-11-博客功能.md",
+                "file": "_drafts/一团乱/意识/日记/2024年05月04日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-7-11-博客功能.md"
+                "file": "_drafts/一团乱/意识/日记/2024年05月04日.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -195,9 +196,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "780b9c7fe8b51951",
+  "active": "d9d34b700711c311",
   "lastOpenFiles": [
-    "_posts/2023-9-20-ES6-Day1.md",
+    "_drafts/一团乱/日记提示词.md",
+    "_drafts/一团乱/意识/日记/2024年05月04日.md",
+    "_posts/2024-5-3-离别之际.md",
+    "_posts/2024-5-3-人有净气，风雅自来.md",
+    "_posts/2024-5-3-选择比努力重要.md",
+    "_posts/2024-5-3-个人网站的管理.md",
+    "_posts/2023-7-11-博客功能.md",
+    "_posts/2024-5-3-成为全栈工程师.md",
+    "_drafts/2023-9-20-ES6-Day1.md",
     "_posts/2024-5-3-22-成为全栈工程师.md",
     "_posts/2024-5-3-22-个人网站的管理.md",
     "_posts/2024-5-3-22-离别之际.md",
@@ -210,7 +219,6 @@
     "_posts/Pasted image 20240503164038.png",
     "_posts/Pasted image 20240503163951.png",
     "_posts/Pasted image 20240503163843.png",
-    "_posts/2023-7-11-博客功能.md",
     "_drafts/一团乱/意识/日记/2024年05月03日.md",
     "_drafts/附件/模板/Blog 发布模板.md",
     "_posts/2024-5-3-22-你好.md",
@@ -227,13 +235,6 @@
     "_drafts/README.md",
     "_drafts/Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
     "_drafts/总结.md",
-    "_drafts/引用.md",
-    "_drafts/未命名.md",
-    "_drafts/深度学习框架.md",
-    "_drafts/例子.md",
-    "_drafts/搭建知识系统.md",
-    "_drafts/笔记.md",
-    "_drafts/2023-10-12-离别.md",
     "_posts/_drafts",
     "_posts",
     "未命名.canvas",
