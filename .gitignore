@@ -20,3 +20,6 @@ package-lock.json
 
 # Misc
 # assets/js/dist
+Obsidian/_drafts
+Obsidian/.obsidian
+Obsidian/.trash
