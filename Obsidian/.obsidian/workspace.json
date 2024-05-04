@@ -11,13 +11,8 @@
             "id": "c1bfa327318ad116",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-5-3-22-人有净气，风雅自来.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -197,11 +192,10 @@
       "media-extended:Open media": false,
       "omnisearch:Omnisearch": false,
       "obsidian-wordpress:发布到 WordPress": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9d34b700711c311",
+  "active": "780b9c7fe8b51951",
   "lastOpenFiles": [
     "_posts/2023-9-20-ES6-Day1.md",
     "_posts/2024-5-3-22-成为全栈工程师.md",

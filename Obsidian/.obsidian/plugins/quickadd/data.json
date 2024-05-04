@@ -38,7 +38,7 @@
       "templatePath": "_drafts/附件/模板/Blog 发布模板.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:Y-M-D-22}}-{{name}}"
+        "format": "{{DATE:Y-M-D}}-{{name}}"
       },
       "folder": {
         "enabled": true,
