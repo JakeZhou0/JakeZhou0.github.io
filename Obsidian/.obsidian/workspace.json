@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-5-3-no-way-to-start.md",
+                "file": "_drafts/2023-9-20-ES6-Day1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-5-3-no-way-to-start.md",
+                "file": "_drafts/2023-9-20-ES6-Day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-5-3-no-way-to-start.md",
+                "file": "_drafts/2023-9-20-ES6-Day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-5-3-no-way-to-start.md"
+                "file": "_drafts/2023-9-20-ES6-Day1.md"
               }
             }
           }
@@ -198,12 +198,13 @@
   },
   "active": "d9d34b700711c311",
   "lastOpenFiles": [
+    "_site",
+    "_posts/2024-5-3-no-way-to-start.md",
     "_posts/2024-5-3-bid-farewell.md",
     "_posts/2024-5-3-elegant.md",
     "_posts/2024-5-3-choice-and-effort.md",
     "_posts/2024-5-3-become-full-stack-engineer.md",
     "_posts/2023-7-11-blog-planning.md",
-    "_posts/2024-5-3-no-way-to-start.md",
     "_posts/Pasted image 20240430195007.png",
     "_drafts/一团乱/意识/日记/2024年05月04日.md",
     "_drafts/一团乱/日记提示词.md",
