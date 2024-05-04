@@ -38,8 +38,9 @@ social:
   email: ajieoooo@hotmail.com # 更改为你的电子邮件地址
   links:
     # 第一个元素作为版权所有者的链接
+    - https://www.ajiew.com
     # - https://twitter.com/username  # 更改为你的 twitter 主页
-    # - https://github.com/jaychou404  # 更改为你的 github 主页
+    - https://github.com/jaychou404  # 更改为你的 github 主页
     # 解释以下以添加更多的社交链接
     # - https://www.facebook.com/username 
     # - https://www.linkedin.com/in/username 
@@ -77,7 +78,7 @@ avatar: 'https://www.ajiew.com/assets/img/logo.png'
 toc: true
 
 comments:
-  active:  # 帖子评论的全局开关，例如 'disqus'。保持为空表示禁用
+  active:  giscus # 帖子评论的全局开关，例如 'disqus'。保持为空表示禁用
   # 激活选项如下：
   disqus:
     shortname: # 填写 Disqus 的短域名。 › https://help.disqus.com/en/articles/1717111-what-s-a-shortname 
@@ -87,14 +88,14 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus 选项 › https://giscus.app 
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # 可选，默认为 'pathname'
-    input_position: # 可选，默认为 'bottom'
-    lang: # 可选，默认为 `site.lang` 的值
-    reactions_enabled: # 可选，默认为 '1'
+    repo: jaychou404/jaychou404.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOJ4oA_w
+    category: Announcements
+    category_id: DIC_kwDOJ4oA_84CfIyh
+    mapping: pathname       # 可选，默认为 'pathname'
+    input_position: bottom  # 可选，默认为 'bottom'
+    lang: zh-CN             # 可选，默认为 `site.lang` 的值
+    reactions_enabled: 1    # 可选，默认为 '1'
 
 # 自托管静态资源，可选 › https://github.com/cotes2020/chirpy-static-assets 
 assets:
