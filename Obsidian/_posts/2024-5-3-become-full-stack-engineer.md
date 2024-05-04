@@ -17,7 +17,7 @@ date: 2023-11-24
 
 我在阮前辈的 [GitHub](https://github.com/ruanyf/) 那里找了一份关于全栈工程师学习的项目 [jstraining](https://github.com/ruanyf/jstraining)，我想根据这个项目来了解这个工作需要学习哪些知识。
 
-![阮一峰的GitHub主页](Pasted%20image%2020240503163843.png)
+![Pasted image 20240503163843.png](https://s2.loli.net/2024/05/05/OmSe3YuL9D7MrQw.png)
 
 ### 学习这个项目作用
 
@@ -39,13 +39,14 @@ date: 2023-11-24
 
 带着疑问我又去找了 2023 年的关于全栈工程师的资料，有一篇写的 [全栈工程师的文章](https://www.freecodecamp.org/chinese/news/full-stack-engineer-career-guide/) 我觉得写的不错，这篇文章涉及了这多方面的知识框架，并且可以找到对应的资料。
 
-![关于全栈工程师的文章图片](Pasted%20image%2020240503163951.png)
+![Pasted image 20240503163951.png](https://s2.loli.net/2024/05/05/8rvOaUN2sjkcnRi.png)
+
 
 这篇文章主要围绕着：什么是全栈工程师？如何成为全栈工程师？
 
 不过这篇文章的问题存在于，文章是主要围绕着国外行情所写的文章，这个需要我从我国的国情去考虑学习。
 
-![查询全栈工程师的平均薪资](Pasted%20image%2020240503164038.png)
+![Pasted image 20240503164038.png](https://s2.loli.net/2024/05/05/91nfXBYEja5ZIWg.png)
 
 ## 第三份资料
 
@@ -53,6 +54,6 @@ date: 2023-11-24
 
 明明这些网络上还招聘这些前端工程师和全栈工程师，为什么我总是听到身边的人都在说前端已死，或者毕业即失业什么的，可能在我涉及到的人际中，大都是比较悲观，他们自己的能力并不能很好匹配这些公司的需求吧。
 
-![全栈工程师职业详情](Pasted%20image%2020240503164214.png)
+![Pasted image 20240503164152.png](https://s2.loli.net/2024/05/05/91nfXBYEja5ZIWg.png)
 
 对于这份工作，对我来说学习的时间并不是很多了，只有 1 年了，这个时间段里，我都得往这个方向前进了。我还是愿意选择一个比较体面的工作。对于学历的提升，我个人实在提不起兴趣了，费事、费时（我看不见学历的提升对于我的帮助）。

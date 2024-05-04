@@ -16,5 +16,6 @@
   "dataview",
   "contribution-graph",
   "calendar",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-image-auto-upload-plugin"
 ]
