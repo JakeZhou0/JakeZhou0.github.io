@@ -20,7 +20,7 @@ jquery:
 
 bootstrap:
   css: https://cdnjs.cloudflare.com/ajax/libs/bootswatch/5.3.3/cerulean/bootstrap.min.css
-  js: https://cdnjs.cloudflare.com/ajax/libs/boosted/5.3.3/js/boosted.bundle.min.js
+  js: https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js
 
 toc:
   css: https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.27.19/tocbot.min.css
