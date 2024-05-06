@@ -2,8 +2,8 @@
 title: 无从下手
 tags:
   - 资源/日记
-category:
-  - 资源
+categories:
+  - 日记
 date: 2024-04-27
 ---
 

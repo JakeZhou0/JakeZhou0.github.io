@@ -2,7 +2,7 @@
 title: 博客规划
 date: 2023-7-11
 categories:
-  - 项目
+  - 博客相关
 tags:
   - 项目/个人博客
 ---

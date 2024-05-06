@@ -2,8 +2,8 @@
 title: 选择比努力重要
 tags:
   - 资源/日记
-category:
-  - 资源
+categories:
+  - 日记
 date: 2023-11-26
 ---
 
