@@ -315,5 +315,13 @@
       ],
       "key": ";"
     }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F1"
+    }
   ]
 }

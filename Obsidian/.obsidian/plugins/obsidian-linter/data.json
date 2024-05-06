@@ -265,7 +265,7 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    ""
+    "_drafts/一团乱/Excalidraw"
   ],
   "linterLocale": "zh-cn",
   "logLevel": "ERROR",

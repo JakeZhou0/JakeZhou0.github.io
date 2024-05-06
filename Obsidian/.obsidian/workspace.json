@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "412d486543f01088",
+        "id": "d7dbda7ebc3f24c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c1bfa327318ad116",
+            "id": "56fc5f37d2e95de0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-7-11-blog-planning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "99e7b91626d610ae",
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-7-11-blog-planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-7-11-blog-planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-7-11-blog-planning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,7 +164,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -183,58 +174,59 @@
       "templater-obsidian:Templater": false,
       "media-extended:Open media": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-wordpress:发布到 WordPress": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c1bfa327318ad116",
+  "active": "56fc5f37d2e95de0",
   "lastOpenFiles": [
-    "_posts/2024-5-3-become-full-stack-engineer.md",
-    "_posts/2024-5-3-no-way-to-start.md",
-    "_posts/2024-5-3-elegant.md",
-    "_posts/2024-5-3-choice-and-effort.md",
-    "_posts/2024-5-3-bid-farewell.md",
-    "_posts/2023-7-11-blog-planning.md",
-    "_drafts/附件/模板/blog发布参考模板.md",
-    "_drafts/一团乱/意识/日记/2024年05月04日.md",
-    "_drafts/2023-9-20-ES6-Day1.md",
+    "Obsidian/_drafts/一团乱/Excalidraw/要事矩阵.md",
+    "_drafts/一团乱/意识/日记/2024年05月05日.md",
+    "_drafts/一团乱/日记提示词.md",
+    "Obsidian/_drafts/一团乱/Excalidraw/随便画2024-05-06 09_0.excalidraw.md",
+    "Obsidian/_drafts/一团乱/Excalidraw",
+    "Obsidian/_drafts/一团乱",
+    "Obsidian/_drafts",
+    "Obsidian",
+    "_drafts/一团乱/MindMap/Board/要事评判.md",
+    "_drafts/Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
+    "_drafts/附件/模板/日记模板.md",
+    "_drafts/一团乱/Knowledge/杂物箱/VOA Lesson 8 Are You Busy.md",
+    "_drafts/附件/插入模版/代办.md",
+    "_drafts/一团乱/Knowledge/附件/计算机基础-DESKTOP-4MS2G6M.md",
+    "_drafts/一团乱/Vocabulary/finish.md",
+    "_drafts/一团乱/Knowledge/CS/Tex Live.md",
+    "_drafts/一团乱/意识/日记/2023-04-10.md",
+    "_drafts/一团乱/意识/日记/2023-09-11.md",
+    "_drafts/一团乱/意识/日记/2024-01-10.md",
+    "_drafts/一团乱/意识/日记/2023-08-02.md",
+    "_drafts/一团乱/数组和字符串.md",
+    "_drafts/一团乱/意识/日记/2023-08-08.md",
+    "_drafts/一团乱/Excalidraw/Drawing 2022-12-17 22.01.21.excalidraw-DESKTOP-4MS2G6M.md",
+    "_drafts/一团乱/公因数匹配.md",
+    "_drafts/一团乱/usefulKB.exe.md",
+    "_drafts/一团乱/最少砝码.md",
+    "_drafts/一团乱/跑步锻炼.md",
+    "_drafts/一团乱/未命名 6.md",
+    "_drafts/一团乱/Knowledge/CS/CSS.md",
+    "_drafts/一团乱/stormy.md",
     "_site",
     "_posts/Pasted image 20240430195007.png",
-    "_drafts/一团乱/日记提示词.md",
-    "_posts/2024-5-3-22-成为全栈工程师.md",
-    "_posts/2024-5-3-22-个人网站的管理.md",
-    "_posts/2024-5-3-22-离别之际.md",
-    "_posts/2024-5-3-22-人有净气，风雅自来.md",
-    "_posts/2024-5-3-22-选择比努力重要.md",
-    "_drafts/一团乱/未命名 8.md",
     "_posts/Pasted image 20240503164214.png",
     "_posts/Pasted image 20240503164152.png",
     "_posts/Pasted image 20240503164038.png",
     "_posts/Pasted image 20240503163951.png",
     "_posts/Pasted image 20240503163843.png",
-    "_drafts/一团乱/意识/日记/2024年05月03日.md",
-    "_drafts/附件/模板/Blog 发布模板.md",
-    "_posts/2024-5-3-22-你好.md",
-    "Excalidraw/Drawing 2024-05-02 15.excalidraw.md",
     "Excalidraw",
     "_posts/Pasted image 20240430194529.png",
     "_posts/Pasted image 20240430125850.png",
     "_drafts/一团乱/Pasted image 20240430130232.png",
     "_drafts/一团乱/Pasted image 20240430130206.png",
-    "_drafts/一团乱/掌握Java基础编程能力（回顾、补充）.md",
-    "_drafts/一团乱/标准 Java 库.md",
-    "_drafts/一团乱/算法和数据结构.md",
-    "_drafts/README.md",
-    "_drafts/Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
     "_posts/_drafts",
     "_posts",
     "未命名.canvas",
     "投票系统需求文档.txt",
     "一团乱/Knowledge/CS/Jupyter/数据分析.ipynb",
-    "一团乱/Knowledge/CS/Jupyter/stopwords_comments.csv",
-    "一团乱/Knowledge/CS/Jupyter/scu_stopwords.txt",
-    "一团乱/Knowledge/CS/Jupyter/hit_stopwords.txt",
-    "一团乱/Knowledge/CS/Jupyter/cn_stopwords.txt",
     "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
     "一团乱/意识/Todo/计划.canvas",
     "一团乱/Knowledge/附件/未命名.canvas",
