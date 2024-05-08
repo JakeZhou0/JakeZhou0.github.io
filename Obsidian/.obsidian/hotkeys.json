@@ -247,7 +247,15 @@
       "key": "C"
     }
   ],
-  "editor:insert-link": [],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
   "editor:insert-wikilink": [
     {
       "modifiers": [
@@ -323,5 +331,15 @@
       ],
       "key": "F1"
     }
-  ]
+  ],
+  "quickadd:choice:b33c5e43-3110-452a-9abd-d728f637633a": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:delete-paragraph": []
 }

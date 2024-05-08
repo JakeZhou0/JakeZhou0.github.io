@@ -3,7 +3,7 @@
   "spellcheck": true,
   "attachmentFolderPath": "./",
   "newFileLocation": "folder",
-  "vimMode": false,
+  "vimMode": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",

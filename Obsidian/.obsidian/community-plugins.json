@@ -16,5 +16,8 @@
   "contribution-graph",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "vim-yank-highlight",
+  "obsidian-vimrc-support",
+  "vim-im-select"
 ]

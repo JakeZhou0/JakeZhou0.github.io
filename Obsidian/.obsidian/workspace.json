@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d7dbda7ebc3f24c9",
+        "id": "65976137a58a04d8",
         "type": "tabs",
         "children": [
           {
-            "id": "56fc5f37d2e95de0",
+            "id": "f30b51d36307dc4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/一团乱/Qwert Learner 学习计划.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_drafts/一团乱/Qwert Learner 学习计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_drafts/一团乱/Qwert Learner 学习计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_drafts/一团乱/Qwert Learner 学习计划.md"
+              }
             }
           }
         ]
@@ -160,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,55 +188,55 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "56fc5f37d2e95de0",
+  "active": "f30b51d36307dc4b",
   "lastOpenFiles": [
+    "_drafts/一团乱/开源项目Qwert Learner学习.md",
+    "_drafts/一团乱/Qwert Learner 学习计划.md",
+    "_drafts/一团乱/Qwert Learner目录结构分析.md",
+    "_drafts/一团乱/Excalidraw/Qwert Learner项目调研.md",
+    "_drafts/一团乱/ESLint.md",
+    "_drafts/一团乱/未命名 6.md",
+    "_drafts/附件/插入模版/错误.md",
+    "_drafts/附件/插入模版/代办.md",
+    "_drafts/附件/插入模版/完成.md",
+    "_drafts/附件/插入模版/引用.md",
+    "_drafts/附件/插入模版/重要.md",
+    "_drafts/附件/插入模版/注意.md",
+    "_drafts/附件/插入模版/总结.md",
+    "_drafts/附件/插入模版/问题.md",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506234400_080.svg",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506234345_081.svg",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233815_933.svg",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233727_904.svg",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233338_817.svg",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233625_880.svg",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233454_854.svg",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233423_841.svg",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233235_768.svg",
+    "_drafts/一团乱/Excalidraw/Drawing 2022-12-17 22.01.21.excalidraw.md",
+    "_drafts/一团乱/Editors Vim 文章翻译中文.md",
+    "_posts/2024-5-3-bid-farewell.md",
+    "_drafts/一团乱/Knowledge/附件/草稿.md",
+    "_drafts/一团乱/Editors (Vim).md",
+    "_drafts/一团乱/Knowledge/CS/Vim.md",
+    "_drafts/一团乱/Knowledge/CS/Vim-DESKTOP-4MS2G6M.md",
+    "Knowledge/CS/IDE.md",
+    "Knowledge/CS",
+    "Knowledge",
+    "_drafts/附件/模板/笔记模板.md",
     "Obsidian/_drafts/一团乱/Excalidraw/要事矩阵.md",
     "_drafts/一团乱/意识/日记/2024年05月05日.md",
     "_drafts/一团乱/日记提示词.md",
-    "Obsidian/_drafts/一团乱/Excalidraw/随便画2024-05-06 09_0.excalidraw.md",
     "Obsidian/_drafts/一团乱/Excalidraw",
     "Obsidian/_drafts/一团乱",
     "Obsidian/_drafts",
     "Obsidian",
-    "_drafts/一团乱/MindMap/Board/要事评判.md",
-    "_drafts/Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
-    "_drafts/附件/模板/日记模板.md",
-    "_drafts/一团乱/Knowledge/杂物箱/VOA Lesson 8 Are You Busy.md",
-    "_drafts/附件/插入模版/代办.md",
-    "_drafts/一团乱/Knowledge/附件/计算机基础-DESKTOP-4MS2G6M.md",
-    "_drafts/一团乱/Vocabulary/finish.md",
-    "_drafts/一团乱/Knowledge/CS/Tex Live.md",
-    "_drafts/一团乱/意识/日记/2023-04-10.md",
-    "_drafts/一团乱/意识/日记/2023-09-11.md",
-    "_drafts/一团乱/意识/日记/2024-01-10.md",
-    "_drafts/一团乱/意识/日记/2023-08-02.md",
-    "_drafts/一团乱/数组和字符串.md",
-    "_drafts/一团乱/意识/日记/2023-08-08.md",
-    "_drafts/一团乱/Excalidraw/Drawing 2022-12-17 22.01.21.excalidraw-DESKTOP-4MS2G6M.md",
-    "_drafts/一团乱/公因数匹配.md",
-    "_drafts/一团乱/usefulKB.exe.md",
-    "_drafts/一团乱/最少砝码.md",
-    "_drafts/一团乱/跑步锻炼.md",
-    "_drafts/一团乱/未命名 6.md",
-    "_drafts/一团乱/Knowledge/CS/CSS.md",
-    "_drafts/一团乱/stormy.md",
     "_site",
     "_posts/Pasted image 20240430195007.png",
-    "_posts/Pasted image 20240503164214.png",
-    "_posts/Pasted image 20240503164152.png",
-    "_posts/Pasted image 20240503164038.png",
-    "_posts/Pasted image 20240503163951.png",
-    "_posts/Pasted image 20240503163843.png",
     "Excalidraw",
-    "_posts/Pasted image 20240430194529.png",
-    "_posts/Pasted image 20240430125850.png",
-    "_drafts/一团乱/Pasted image 20240430130232.png",
-    "_drafts/一团乱/Pasted image 20240430130206.png",
     "_posts/_drafts",
     "_posts",
     "未命名.canvas",
-    "投票系统需求文档.txt",
-    "一团乱/Knowledge/CS/Jupyter/数据分析.ipynb",
     "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
     "一团乱/意识/Todo/计划.canvas",
     "一团乱/Knowledge/附件/未命名.canvas",
