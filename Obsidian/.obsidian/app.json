@@ -7,7 +7,7 @@
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "strictLineBreaks": false,
   "showFrontmatter": true,
   "showLineNumber": true,

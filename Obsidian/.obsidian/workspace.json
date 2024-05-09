@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f30b51d36307dc4b",
+            "id": "cde22416bf6e49b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/一团乱/Qwert Learner 学习计划.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#资源/前端工程师",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -83,12 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "99e7b91626d610ae",
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/一团乱/Qwert Learner 学习计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/一团乱/Qwert Learner 学习计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_drafts/一团乱/Qwert Learner 学习计划.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +178,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f30b51d36307dc4b",
+  "active": "cde22416bf6e49b6",
   "lastOpenFiles": [
+    "英语语法思维图.md",
+    "_drafts/附件/资料/新概念英语第2册PDF课本.pdf",
+    "_drafts/附件/资料/新概念英语+第1册.pdf",
+    "_drafts/附件/资料/新概念英语第2册PDF课本.pdf.baiduyun.p.downloading",
+    "_drafts/附件/资料/新概念第三册.pdf",
+    "_drafts/附件/资料/新概念英语+第1册.pdf.baiduyun.p.downloading",
+    "_drafts/附件/资料/新概念第三册.pdf.baiduyun.p.downloading",
+    "_drafts/附件/资料",
+    "_drafts/附件/新建文件夹",
+    "_drafts/一团乱/意识/日记/2024年05月09日.md",
+    "_drafts/一团乱/Learn Form Validation by Building a Calorie Counter.md",
     "_drafts/一团乱/开源项目Qwert Learner学习.md",
     "_drafts/一团乱/Qwert Learner 学习计划.md",
+    "_drafts/一团乱/意识/创意/有用的键盘.md",
+    "_drafts/一团乱/意识/日记/2024年05月05日.md",
+    "_drafts/一团乱/意识/创意/自定义键盘制作方案.md",
+    "_drafts/一团乱/README_CN.md",
+    "_drafts/README.md",
+    "_drafts/一团乱/意识/创意/有用的键盘-DESKTOP-4MS2G6M.md",
+    "_drafts/一团乱/招聘信息.md",
     "_drafts/一团乱/Qwert Learner目录结构分析.md",
     "_drafts/一团乱/Excalidraw/Qwert Learner项目调研.md",
     "_drafts/一团乱/ESLint.md",
@@ -214,28 +222,9 @@
     "_drafts/一团乱/Excalidraw/Pasted Image 20240506233423_841.svg",
     "_drafts/一团乱/Excalidraw/Pasted Image 20240506233235_768.svg",
     "_drafts/一团乱/Excalidraw/Drawing 2022-12-17 22.01.21.excalidraw.md",
-    "_drafts/一团乱/Editors Vim 文章翻译中文.md",
-    "_posts/2024-5-3-bid-farewell.md",
-    "_drafts/一团乱/Knowledge/附件/草稿.md",
-    "_drafts/一团乱/Editors (Vim).md",
-    "_drafts/一团乱/Knowledge/CS/Vim.md",
-    "_drafts/一团乱/Knowledge/CS/Vim-DESKTOP-4MS2G6M.md",
-    "Knowledge/CS/IDE.md",
     "Knowledge/CS",
     "Knowledge",
-    "_drafts/附件/模板/笔记模板.md",
-    "Obsidian/_drafts/一团乱/Excalidraw/要事矩阵.md",
-    "_drafts/一团乱/意识/日记/2024年05月05日.md",
-    "_drafts/一团乱/日记提示词.md",
-    "Obsidian/_drafts/一团乱/Excalidraw",
-    "Obsidian/_drafts/一团乱",
-    "Obsidian/_drafts",
-    "Obsidian",
-    "_site",
     "_posts/Pasted image 20240430195007.png",
-    "Excalidraw",
-    "_posts/_drafts",
-    "_posts",
     "未命名.canvas",
     "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
     "一团乱/意识/Todo/计划.canvas",
