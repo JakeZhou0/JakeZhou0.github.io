@@ -25,15 +25,6 @@
       "key": "Enter"
     }
   ],
-  "editor:toggle-spellcheck": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
   "obsidian-mind-map:app:markmap-preview": [
     {
       "modifiers": [
@@ -61,12 +52,6 @@
     }
   ],
   "app:go-back": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "H"
-    },
     {
       "modifiers": [
         "Alt"
@@ -341,5 +326,49 @@
       "key": "N"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "highlightr-plugin:Red": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "highlightr-plugin:Green": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
 }

@@ -19,5 +19,6 @@
   "obsidian-image-auto-upload-plugin",
   "vim-yank-highlight",
   "obsidian-vimrc-support",
-  "vim-im-select"
+  "vim-im-select",
+  "highlightr-plugin"
 ]
