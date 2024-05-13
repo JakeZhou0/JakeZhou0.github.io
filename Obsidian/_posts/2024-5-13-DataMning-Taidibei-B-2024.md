@@ -9,6 +9,7 @@ date: 2024-05-13
 ---
 
 参考项目：[Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP)
+项目作品：[2024泰迪杯数据挖掘中比赛的论文与代码等资源。 (github.com)](https://github.com/JayChou404/DataMning-Taidibei-B-2024)
 
 > Chinese-CLIP 是一次极其朴素的开源，没错就是 CLIP 的汉化，旨在推动中文社区多模态发展。
 >
