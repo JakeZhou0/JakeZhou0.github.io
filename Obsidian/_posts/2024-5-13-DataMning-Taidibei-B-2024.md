@@ -9,6 +9,7 @@ date: 2024-05-13
 ---
 
 参考项目：[Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP)
+
 项目作品：[2024泰迪杯数据挖掘中比赛的论文与代码等资源。 (github.com)](https://github.com/JayChou404/DataMning-Taidibei-B-2024)
 
 > Chinese-CLIP 是一次极其朴素的开源，没错就是 CLIP 的汉化，旨在推动中文社区多模态发展。
@@ -19,7 +20,7 @@ date: 2024-05-13
 > ## 关于 Chinese-CLIP
 >
 > **Chinese-CLIP 延续了 CLIP 的模型架构**，使用了不同的训练方式以及全新的中文数据集，即在双流架构和对比学习的支持下，能够有效地整合中文的图像和文本信息到一个共享的嵌入空间，并拥有处理多模态数据的能力。初始阶段以预训练的方式设定了两种编码器：**一种是 CLIP 的视觉编码器，另一种是中文版的 RoBERTa 文本编码器**。
-> ![Pasted image 20240419131647.png](https://ajiew.com/wp-content/uploads/2024/04/Pasted-image-20240419131647-1.png)
+> ![image.png](https://s2.loli.net/2024/05/13/HqsU1RPaWzXrl6m.png)
 {: .prompt-info }
 
 ## 参考文献
