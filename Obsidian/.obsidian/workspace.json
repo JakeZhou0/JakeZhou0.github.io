@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "9fa2dec912c49377",
+            "id": "87fba3bfd165f062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md",
-                "mode": "preview",
+                "file": "_drafts/附件/模板/Blog发布参考模板.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md",
+                "file": "_drafts/一团乱/搭建英语语法思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md",
+                "file": "_drafts/一团乱/搭建英语语法思维.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md"
+                "file": "_drafts/一团乱/搭建英语语法思维.md"
               }
             }
           }
@@ -201,10 +200,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9fa2dec912c49377",
+  "active": "efee89001518fb8a",
   "lastOpenFiles": [
-    "_drafts/一团乱/搭建英语语法思维.md",
     "_posts/2024-5-16-build-framework-for-english-grammar.md",
+    "_drafts/附件/模板/Blog发布参考模板.md",
+    "_drafts/一团乱/搭建英语语法思维.md",
+    "_drafts/一团乱/Knowledge/CS/博客文章功能.md",
     "_drafts/一团乱/Excalidraw/英语语法思路图.md",
     "_drafts/一团乱/英语的从句.md",
     "_drafts/一团乱/Excalidraw/名词性从句的本质.md",
@@ -227,8 +228,6 @@
     "_drafts/一团乱/意识/日记/2024年05月15日.md",
     "_drafts/一团乱/表语.md",
     "_drafts/附件/puma.md",
-    "_drafts/一团乱/puma.md",
-    "_drafts/附件/模板/单词模板.md",
     "插入模板",
     "_drafts/附件/资料/新概念英语第2册PDF课本.pdf",
     "_drafts/附件/资料/新概念英语+第1册.pdf",
