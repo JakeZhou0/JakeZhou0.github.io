@@ -370,5 +370,14 @@
       ],
       "key": "F"
     }
+  ],
+  "quickadd:choice:629c2694-80fb-4cfd-a947-ed4e87dca640": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }

@@ -79,13 +79,73 @@
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
-      "appendLink": true,
+      "appendLink": false,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
         "focus": true
       },
       "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "eda7bc5c-a6de-40f9-83c5-53d0112cdf5c",
+      "name": "新概念3",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_drafts/附件/模板/Lesson X TITLE.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Lesson {{name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "_drafts/一团乱"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": true,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "629c2694-80fb-4cfd-a947-ed4e87dca640",
+      "name": "词汇",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_drafts/附件/模板/单词模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "_drafts/附件"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false

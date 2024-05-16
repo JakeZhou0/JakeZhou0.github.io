@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e389f95055f5b146",
+        "id": "d5c5bdd8f10a65aa",
         "type": "tabs",
         "children": [
           {
-            "id": "d52cafa94cbe794a",
+            "id": "efee89001518fb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "e80d37ab12d4cf78",
+            "id": "9fa2dec912c49377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-5-13-DataMning-Taidibei-B-2024.md",
-                "mode": "source",
+                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:领域/计算机科学/数据科学",
+                "query": "tag:#项目/英语",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-5-13-DataMning-Taidibei-B-2024.md",
+                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-5-13-DataMning-Taidibei-B-2024.md",
+                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-5-13-DataMning-Taidibei-B-2024.md"
+                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md"
               }
             }
           }
@@ -201,34 +201,34 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e80d37ab12d4cf78",
+  "active": "9fa2dec912c49377",
   "lastOpenFiles": [
     "_drafts/一团乱/搭建英语语法思维.md",
+    "_posts/2024-5-16-build-framework-for-english-grammar.md",
+    "_drafts/一团乱/Excalidraw/英语语法思路图.md",
+    "_drafts/一团乱/英语的从句.md",
+    "_drafts/一团乱/Excalidraw/名词性从句的本质.md",
     "_posts/2024-5-13-DataMning-Taidibei-B-2024.md",
-    "_drafts/一团乱/2024泰迪杯B题.md",
+    "_posts/2023-7-11-blog-planning.md",
+    "_posts/2024-5-3-no-way-to-start.md",
+    "_posts/2024-5-3-elegant.md",
+    "_posts/2024-5-3-choice-and-effort.md",
     "_posts/2024-5-3-bid-farewell.md",
     "_posts/2024-5-3-become-full-stack-engineer.md",
-    "_posts/2023-7-11-blog-planning.md",
-    "_drafts/附件/模板/Blog 发布模板.md",
-    "_drafts/附件/模板/Blog发布参考模板.md",
-    "_drafts/一团乱/Learn Form Validation by Building a Calorie Counter.md",
-    "_drafts/一团乱/Editors (Vim).md",
-    "_drafts/一团乱/Editors Vim 文章翻译中文.md",
-    "_drafts/一团乱/英语简单句.md",
-    "_drafts/一团乱/英语的简单句的构成.md",
+    "_drafts/附件/插入模版/正确.md",
+    "_drafts/一团乱/Lesson 1 A Puma at Large.md",
+    "_drafts/一团乱/意识/日记/2024年05月16日.md",
+    "_drafts/一团乱/新概念3.md",
+    "_drafts/一团乱/Lesson 1 of my learning course.md",
+    "_drafts/一团乱/Lesson 1 of my learning course1.md",
+    "_drafts/一团乱/2024泰迪杯B题.md",
     "_drafts/一团乱/SVOC（主谓宾补）.md",
-    "_drafts/一团乱/SVOO（主谓双宾）.md",
-    "_drafts/一团乱/SVO（主谓宾）.md",
+    "_drafts/一团乱/英语的词性种类.md",
+    "_drafts/一团乱/意识/日记/2024年05月15日.md",
     "_drafts/一团乱/表语.md",
-    "_drafts/一团乱/主谓宾定状补.md",
-    "_drafts/一团乱/SVP（主系表）.md",
-    "_drafts/一团乱/Excalidraw/英语语法思路图.md",
-    "_drafts/一团乱/SV（主谓）.md",
-    "_drafts/一团乱/介词.md",
-    "_drafts/一团乱/英语的词性种类之间的修饰关系.md",
-    "_drafts/一团乱/意识/日记/2024年05月09日.md",
-    "_drafts/一团乱/意识/日记/2024年05月10日.md",
-    "_drafts/附件/插入模版/注意.md",
+    "_drafts/附件/puma.md",
+    "_drafts/一团乱/puma.md",
+    "_drafts/附件/模板/单词模板.md",
     "插入模板",
     "_drafts/附件/资料/新概念英语第2册PDF课本.pdf",
     "_drafts/附件/资料/新概念英语+第1册.pdf",
