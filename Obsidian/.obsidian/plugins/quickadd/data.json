@@ -5,7 +5,7 @@
       "name": "健康指标",
       "type": "Template",
       "command": true,
-      "templatePath": "一团乱/评分模板.md",
+      "templatePath": "_drafts/一团乱/评分模板.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "健康指标打分{{DATE:Y年M月D日 22时}}"
@@ -13,7 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "一团乱/意识/日记"
+          "_drafts"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

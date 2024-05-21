@@ -4,7 +4,7 @@
   "attachmentFolderPath": "./",
   "newFileLocation": "folder",
   "vimMode": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": false,
@@ -36,5 +36,6 @@
     "_sass/",
     "_site/"
   ],
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "livePreview": true
 }

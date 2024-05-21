@@ -379,5 +379,14 @@
       ],
       "key": "V"
     }
+  ],
+  "highlightr-plugin:Grey": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }

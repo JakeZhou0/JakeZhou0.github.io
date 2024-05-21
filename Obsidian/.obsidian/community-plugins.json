@@ -20,5 +20,6 @@
   "vim-yank-highlight",
   "obsidian-vimrc-support",
   "vim-im-select",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-reminder-plugin"
 ]
