@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c5bdd8f10a65aa",
+        "id": "caf08ef81afece7e",
         "type": "tabs",
         "children": [
           {
-            "id": "efee89001518fb8a",
+            "id": "13554c1fb0424988",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,16 @@
                 "source": false
               }
             },
-            "group": "32c38da238d6d9d1"
+            "group": "0ccb6546e8b33628"
           }
         ]
       },
       {
-        "id": "0f799293f7ba4c88",
+        "id": "8902150586d07734",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e0e13f93204b58",
+            "id": "5764cc07ae3060fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +39,7 @@
                 "source": false
               }
             },
-            "group": "32c38da238d6d9d1"
+            "group": "0ccb6546e8b33628"
           }
         ]
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#项目/英语",
+                "query": "tag:#归档",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -118,7 +118,7 @@
       {
         "id": "39e5814985b0659e",
         "type": "tabs",
-        "dimension": 50.40556199304751,
+        "dimension": 67.02619414483821,
         "children": [
           {
             "id": "0ad8abf5953eb82f",
@@ -127,6 +127,70 @@
               "type": "outline",
               "state": {
                 "file": "_posts/2024-5-16-build-framework-for-english-grammar.md"
+              }
+            }
+          },
+          {
+            "id": "ef550e3c763f9d13",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_posts/2024-5-16-build-framework-for-english-grammar.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#归档  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#资源  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "tag:#领域  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "tag:#项目  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4363330
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.1,
+                  "nodeSizeMultiplier": 1.57203742203742,
+                  "lineSizeMultiplier": 4.05769230769231,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.49127411397768994,
+                  "close": true
+                }
               }
             }
           },
@@ -176,7 +240,7 @@
       {
         "id": "45c198c4f1838338",
         "type": "tabs",
-        "dimension": 49.59443800695249,
+        "dimension": 32.973805855161785,
         "children": [
           {
             "id": "780b9c7fe8b51951",
@@ -189,7 +253,7 @@
             }
           },
           {
-            "id": "1882a16d57c7d025",
+            "id": "fcb56f7d89ee9c5c",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -200,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,51 +275,54 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "templater-obsidian:Templater": false,
-      "media-extended:Open media": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "780b9c7fe8b51951",
+  "active": "13554c1fb0424988",
   "lastOpenFiles": [
-    "_drafts/一团乱/搭建英语语法思维.md",
+    "_posts/2024-5-13-DataMning-Taidibei-B-2024.md",
     "_posts/2024-5-16-build-framework-for-english-grammar.md",
-    "_drafts/一团乱/Editors (Vim).md",
+    "_posts/2024-5-3-no-way-to-start.md",
+    "_posts/2024-5-3-elegant.md",
+    "_posts/2024-5-3-bid-farewell.md",
     "_posts/2024-5-3-become-full-stack-engineer.md",
-    "_drafts/一团乱/开源项目Qwerty Learner学习.md",
-    "_drafts/一团乱/JavaScript Algorithms and Data Structures.md",
-    "_drafts/一团乱/快速入门React.md",
-    "_drafts/一团乱/Learn Form Validation by Building a Calorie Counter.md",
-    "_drafts/一团乱/Building a Calorie Counter Step 24.md",
-    "_drafts/一团乱/Building a Calorie Counter Step 23.md",
-    "_drafts/附件/模板/笔记模板.md",
-    "_drafts/附件/插入模版/总结.md",
-    "_drafts/总结.md",
-    "_drafts/一团乱/英语的从句.md",
-    "_drafts/一团乱/掌握Java基础编程能力（回顾、补充）.md",
-    "_drafts/一团乱/意识/日记/2024年05月21日.md",
-    "_drafts/一团乱/意识/日记/2024年05月20日.md",
+    "_posts/2023-7-11-blog-planning.md",
+    "_posts/2024-5-3-choice-and-effort.md",
+    "_drafts/附件/模板/Blog 发布模板.md",
+    "_drafts/一团乱/意识/日记/2023年07月11日.md",
+    "_drafts/附件/模板/Blog发布参考模板.md",
     "_drafts/一团乱/新概念1.md",
-    "_drafts/一团乱/Editors Vim 文章翻译中文.md",
-    "_drafts/一团乱/新概念2.md",
-    "_drafts/一团乱/新概念3.md",
-    "_drafts/一团乱/非谓语动词.md",
-    "_drafts/健康指标打分2024年5月21日 22时.md",
-    "_drafts/一团乱/评分提示词.md",
+    "_drafts/一团乱/Lesson 13 a new dress.md",
+    "_drafts/一团乱/Lesson 11 Is this your shirt.md",
+    "_drafts/一团乱/Lesson 7 Are you a teacher.md",
+    "_drafts/一团乱/Lesson 8 What's your job.md",
+    "_drafts/一团乱/Lesson 5 Nice to meet you.md",
+    "_drafts/一团乱/Lesson 3 Sorry, sir....md",
+    "_drafts/一团乱/Lesson 1 Excuse me!.md",
+    "_drafts/一团乱/Lesson 19 What's the matter.md",
+    "_drafts/一团乱/Lesson 22 give me ..., which on.md",
+    "_drafts/一团乱/Lesson 17 How do you do.md",
+    "_drafts/一团乱/搭建英语语法思维.md",
+    "_drafts/一团乱/Lesson 13 a new daress.md",
+    "_drafts/一团乱/意识/日记/2024年05月09日.md",
+    "_drafts/Media Note - 组织信息的Obsidian实践，建立专业博学的知识地图.md",
+    "_drafts/附件/Pasted image 20240202015026.png",
+    "_drafts/附件/Pasted image 20240202014944.png",
+    "Knowledge/CS/Java笔记",
+    "Knowledge/CS",
+    "Knowledge",
+    "_drafts/一团乱/Excalidraw/Pasted Image 20240521191726_039.svg",
     "一团乱/意识/日记",
     "一团乱/意识",
     "一团乱",
-    "_drafts/一团乱/日记提示词.md",
-    "_drafts/一团乱/评分模板.md",
     "_drafts/附件/资料/Adobe Acrobat Reader DC2021.zip.baiduyun.p.downloading",
     "_drafts/附件/资料/新概念第三册.pdf",
     "smart prompts",
     "smart-chats",
-    "[[_drafts/一团乱",
-    "[[_drafts",
-    "_drafts/附件/资料/新概念英语+第1册.pdf",
     "_drafts/一团乱/Excalidraw/Pasted Image 20240506234400_080.svg",
     "_drafts/一团乱/Excalidraw/Pasted Image 20240506234345_081.svg",
     "_drafts/一团乱/Excalidraw/Pasted Image 20240506233815_933.svg",
@@ -263,9 +330,6 @@
     "_drafts/一团乱/Excalidraw/Pasted Image 20240506233338_817.svg",
     "_drafts/一团乱/Excalidraw/Pasted Image 20240506233625_880.svg",
     "_drafts/一团乱/Excalidraw/Pasted Image 20240506233454_854.svg",
-    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233423_841.svg",
-    "_drafts/一团乱/Excalidraw/Pasted Image 20240506233235_768.svg",
-    "_posts/Pasted image 20240430195007.png",
     "未命名.canvas",
     "一团乱/Knowledge/CS/Java笔记/贪吃蛇制作游戏内容思路.canvas",
     "一团乱/意识/Todo/计划.canvas",

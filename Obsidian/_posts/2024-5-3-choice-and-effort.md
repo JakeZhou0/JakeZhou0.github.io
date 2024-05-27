@@ -1,9 +1,10 @@
 ---
 title: 选择比努力重要
 tags:
-  - 资源/日记
-categories:
   - 日记
+  - 博客
+categories:
+  - 一团乱
 date: 2023-11-26
 ---
 

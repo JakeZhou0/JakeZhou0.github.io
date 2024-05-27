@@ -1,9 +1,10 @@
 ---
 title: 无从下手
 tags:
-  - 资源/日记
-categories:
   - 日记
+  - 博客
+categories:
+  - 一团乱
 date: 2024-04-27
 ---
 

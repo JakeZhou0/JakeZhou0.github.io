@@ -1,9 +1,11 @@
 ---
 title: 成为全栈工程师
 tags:
+  - 项目
   - 项目/全栈工程师
+  - 博客
 categories:
-  - Web领域
+  - Web
 date: 2023-11-24
 ---
 

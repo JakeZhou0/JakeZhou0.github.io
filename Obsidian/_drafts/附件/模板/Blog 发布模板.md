@@ -1,18 +1,8 @@
 ---
-title: 博客规划
+title: 博客标题
 tags:
-  - 归档/资源/博客
-  - 归档/资源/计划
-  - 归档/资源/功能
-category:
-  - 项目
+  - 博客
 categories:
-  - 计算机科学
-  - 程序开发
-date: 2023-7-11
+  - 一团乱
+date: 2024-05-27
 ---
-
-> [!quote] Jekyll 文档 [^头信息]
-> 头信息必须在文件的开始部分，并且需要按照 YAML 的格式写在两行三虚线之间。
-
-[^头信息]:Jekyll • 简单静态博客网站生成器 (jekyllcn.com)](<http://jekyllcn.com/docs/frontmatter/>)

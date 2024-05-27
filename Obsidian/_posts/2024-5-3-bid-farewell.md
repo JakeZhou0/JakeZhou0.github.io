@@ -1,9 +1,12 @@
 ---
 title: 离别之际
 tags:
-  - 资源/日记
-categories:
   - 日记
+  - 资源
+  - 情绪
+  - 博客
+categories:
+  - 一团乱
 date: 2023-11-12
 ---
 
