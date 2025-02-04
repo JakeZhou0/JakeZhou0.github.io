@@ -1,7 +1,7 @@
 ---
 tags:
-  - 归档/📦/Vocabulary
-  - 归档/📦/English
+  - 回收站/知识盒/📦/Vocabulary
+  - 回收站/知识盒/📦/English
 ---
 
 ## Meaning

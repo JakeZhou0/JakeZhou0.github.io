@@ -2,7 +2,7 @@
 title: Web Design 练习
 date: 2023-7-11
 categories: [Web, Responsive Web Design]
-tags: [归档/📦/Web, 归档/📦/front 归档/📦/end, 归档/📦/Responsive 归档/📦/Web 归档/📦/Design]     # TAG names should always be lowercase
+tags: [回收站/知识盒/📦/Web, 回收站/知识盒/📦/front 回收站/知识盒/📦/end, 回收站/知识盒/📦/Responsive 回收站/知识盒/📦/Web 回收站/知识盒/📦/Design]     # TAG names should always be lowercase
 ---
 
 ## Build a Product Landing Page

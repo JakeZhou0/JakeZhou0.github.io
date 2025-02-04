@@ -286,9 +286,10 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Alt"
+        "Mod",
+        "Shift"
       ],
-      "key": "C"
+      "key": "P"
     }
   ],
   "editor:insert-codeblock": [

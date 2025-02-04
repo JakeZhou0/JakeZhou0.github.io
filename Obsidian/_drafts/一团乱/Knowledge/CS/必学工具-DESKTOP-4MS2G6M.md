@@ -1,5 +1,5 @@
 - [x] [[翻墙]]
-- [x] [[Vim]]
+- [x] [[使用Vim]]
 - [x] [[Git]]
 - [x] [[GitHub]]
 - [ ] [[GNU Make]]

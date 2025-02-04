@@ -2,7 +2,7 @@
 media: https://www.bilibili.com/video/BV1m14y1d7DW/
 ---
 
-#归档/项目/知识库搭建
+#回收站/行动盒/知识库搭建
 
 ## 目的
 

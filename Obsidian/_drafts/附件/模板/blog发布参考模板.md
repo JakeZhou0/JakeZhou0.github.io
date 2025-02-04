@@ -1,4 +1,4 @@
-#资源/模板/博客
+#知识盒/模板/博客
 
 ---
 title: Text and Typography
